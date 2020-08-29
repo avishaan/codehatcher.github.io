@@ -13,7 +13,7 @@ tags:
   - ImageNet
 ---
 
-Organization is a key when it comes to performance of our engineering team. When it comes to training and validation of an ML algorithm, there are some best practices. Using the `ImageDataGenerator` class from Keras gives us an easy way to organize a dataset. Maintaining this from the in-house tagging we have, to CI/CD, and through release giving us a shorter release cycle with fewer bugs. ImageNet will automatically label these images for us removing a coding step.
+Organization is key when it comes to performance of our engineering team. When it comes to training and validation of an ML algorithm, there are some best practices. Using the `ImageDataGenerator` class from Keras gives us an easy way to organize a dataset. Maintaining this from the in-house tagging we have, to CI/CD, and through release giving us a shorter release cycle with fewer bugs. ImageNet will automatically label these images for us removing a coding step.
 
 ### File Structure
 Firstly, start off by understanding the file structure. The root directory `/images`, as an example, could be a Kaggle file you have unzipped with the images you want to train on.
