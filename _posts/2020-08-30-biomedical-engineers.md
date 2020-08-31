@@ -1,5 +1,5 @@
 ---
-title: "Do Biomedical Engineers have an Unfair Advantage in Machine Learning?" 
+title: "Do Biomedical Engineers have an Advantage in Machine Learning?" 
 excerpt: "Biomedical engineers go through a multidisciplinary training that might make them a good major to transition into machine learning and Artificial Intelligence"
 categories:
   - ML
@@ -66,7 +66,7 @@ Most BMEs will recognize the components used in describing the internals of an L
 Stochiastic gradient descent when considered with momentum; think RMSProp, Adam, etc has an analogy in physics. There is an extensive explanation <a href="https://math.stackexchange.com/questions/2689721/momentum-in-gradient-descent">here</a> which does an incredible job explaining the parallels from a mathematical perspective. Because this concept of moment has a physics parallel, it can make it much easier to gain intuition of how it applies to SGD. Because physics is such an important foundation to inverse kinematics and medical device design, BMEs will have spent much time in this topic.
 
 ## Backprop - calc
-Taking \\( \small\frac{\partial L}{\partial \theta }\\) in order to minimize the cost is a multivariate calculus problem that every BME knows intimately well. From thermodynamics to fluid dynamics we've encountered it multiple times. In backpropagation this understanding allows us to direct our cost function to a local, hopefully global, minima. Being familiar with this task in other domains allows us to quickly understand why it is important and how to gain an appropriate intuition.
+Taking \\( \small\frac{\partial L}{\partial x^{(n)}}\\) in order to minimize the cost is a multivariate calculus problem that every BME knows intimately well. From thermodynamics to fluid dynamics we've encountered it multiple times. In backpropagation this understanding allows us to direct our cost function to a local, hopefully global, minima. Being familiar with this task in other domains allows us to quickly understand why it is important and how to gain an appropriate intuition.
 
 ## Image Transforms - linear algebra
 Image transforms rely heavily on linear algebra for efficient implementation. Although, not the only place where linear algebra is used in ML, it's definitely is one of the most visual places. Already having an understanding of linear algebra and matrix methods makes this easy to understand for a BME. Along with image transforms, almost all operations need to be vectorized in order to reduce the amount of time needed to train and use a model. This doesn't mean a BME automatically knows enough to find a better optimized solution, but it can make understanding the implementation and debugging much easier.
