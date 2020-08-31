@@ -24,7 +24,7 @@ The L2 regularization parameter \\( \lambda \\) can be adjusted where higher val
 Now as \\( \lambda \uparrow \\) then the \\( \mathbf{W} \downarrow \\) to "compensate"
 
 ## Dropout Probability
-This is common solution to high variance but the likely-hood of keeping a neuron can be adjusted via a `keep_prob` and that can be adjusted per layer
+This is common solution to high variance but the likely-hood of keeping a neuron can be adjusted via a `keep_prob` and that can be adjusted per layer. Most likely input layer and output layer would have `keep_prob=1`
 ```python
 d2 = np.random.rand(a2.shape[0], a2.shape[1]) < keep_prob
 # some of d2 will be zero so multiple by a3 to "remove" the nodes

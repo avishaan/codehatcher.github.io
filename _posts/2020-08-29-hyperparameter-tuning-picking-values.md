@@ -1,6 +1,6 @@
 ---
-title: "Hyperparameter Tuning: Value Picking" 
-excerpt: "Understand how to iterate through the values of the hyperparameters when tuning a Machine Learning algorithm can make all the difference when it comes quickly training a high accuracy model"
+title: "Hyperparameter Range of Value" 
+excerpt: "Understanding how to iterate through the values of the hyperparameters when tuning a Machine Learning algorithm can make a difference when it comes quickly training a high accuracy model"
 categories:
   - ML
 tags:
