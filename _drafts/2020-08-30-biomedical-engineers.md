@@ -1,5 +1,5 @@
 ---
-title: "Do Biomedical Engineers have an Edge in Machine Learning?" 
+title: "Do Biomedical Engineers have an Unfair Advantage in Machine Learning?" 
 excerpt: "Biomedical engineers go through a multidisciplinary training that might make them a good major to transition into machine learning and Artificial Intelligence"
 categories:
   - ML
@@ -13,10 +13,11 @@ date: 2020-8-29
 <script id="MathJax-script" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 <script async src="https://unpkg.com/mermaid@8.6.4/dist/mermaid.min.js"></script>
 
+## Theory
 As biomedical engineers (BMEs) we may have a unique view into machine learning and neural networks. We go through university studying multiple disciplines: 
 - biology
-- mechanical engineering
-- computer engineering
+- anatomy
+- programming
 - probability
 - multivariate calc
 - linear algebra
@@ -37,8 +38,7 @@ There are many theories for activation of neurons. Some of these theories depend
 ### Sigmoid - probability
 Inspired by probability theory (which BMEs also have to take) was wildly used in 2011. Logistic sigmoid is also how many machine learning students get exposed to theory, even now. Having the necessary background in probability theory gives BMEs an advantage when getting started in this field.
 
-## Deep Representation - biology
-
+## Deep Representation - anatomy 
 <figure style="width: 260px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/posts/biomedical-engineers/deeprepresentation.jpg" alt="">
   <figcaption>DNN "features"</figcaption>
@@ -53,18 +53,24 @@ We often see this visualized as the first set of neurons "understand" edges / co
   <figcaption>visual cortex path</figcaption>
 </figure> 
 
- The anatomical equivalent is shown on the left in a figure whose pathways along the visual cortex which will look very familiar to any BME. Similar to the representation above, here we see V1 "understanding" simple visual forms / edge / corners, followed by feature groups, followed by faces, etc etc. 
- 
- Our understanding of the DNN and biological systems are not complete. With our assumptions of the DNN shown to be different; at least to our human visual interpretation. But these similarities still give BMEs an analogy they already understand with which to base their continual learning off of.
+The anatomical equivalent is shown on the left in a figure whose pathways along the visual cortex which will look very familiar to any BME. Similar to the representation above, here we see V1 "understanding" simple visual forms / edge / corners, followed by feature groups, followed by faces, etc etc. 
 
- ## LSTM - electrical engineering
- Most BMEs will recognize the components used in describing the internals of an LSTM, specifically, the very common *feed forward* system. There is a lot of work in this field taking this analogy a step further where hardware LSTM circuits are created allowing instant evaluations. I've also seen some fluid mechanic model representations of LSTM which BME's will also be familiar with because their fluid mechanics classes. As above, this doesn't mean a BME is already a master, just that they can more easily intuit a concept due to recognizing an analogous system.
+Our understanding of the DNN and biological systems are not complete. With our assumptions of the DNN shown to be different; at least to our human visual interpretation. But these similarities still give BMEs an analogy they already understand with which to base their continual learning off of.
 
- ## SGD - physics
- Stochiastic gradient descent when considered with momentum; think RMSProp, Adam, etc has an analogy in physics. There is an extensive explanation <a href="https://math.stackexchange.com/questions/2689721/momentum-in-gradient-descent">here</a> which does an incredible job explaining the parallels from a mathematical perspective. 
+## LSTM - electrical engineering
+Most BMEs will recognize the components used in describing the internals of an LSTM, specifically, the very common *feed forward* system. There is a lot of work in this field taking this analogy a step further where hardware LSTM circuits are created allowing instant evaluations. I've also seen some fluid mechanic model representations of LSTM which BME's will also be familiar with because their fluid mechanics classes. As above, this doesn't mean a BME is already a master, just that they can more easily intuit a concept due to recognizing an analogous system.
 
+## SGD - physics
+Stochiastic gradient descent when considered with momentum; think RMSProp, Adam, etc has an analogy in physics. There is an extensive explanation <a href="https://math.stackexchange.com/questions/2689721/momentum-in-gradient-descent">here</a> which does an incredible job explaining the parallels from a mathematical perspective. Because this concept of moment has a physics parallel, it can make it much easier to gain intuition of how it applies to SGD.
 
-- how biology in Relu related to real biology
-  - easy understanding for BME
-  - there may be other functions to explore
-  - people mentioned how the Relu shouldn't have worked
+## Backprop - calc
+Taking \\( \small\frac{\partial L}{\partial \theta }\\) in order to minimize the cost is multivariate calculus that every BME knows intimately well. From thermodynamics to fluid dynamics we've encountered it multiple times. In backprop this understanding allows us to direct our cost function to a local (hopefully global) minima. Being familiar with this task in other domains allows us to quickly understand why it is important and how to gain intuition.
+
+## Image Transforms - linear algebra
+Image transforms rely heavily on linear algebra for efficient implementation. Although, not the only place where linear algebra is used in ML, it's definitely is one of the most visual places. Already having an understanding of linear algebra and matrix methods makes this easy to understand. Along with image transforms, almost all operations need to be vectorized in order to reduce the amount of time needed to train and use a model. This doesn't mean a BME automatically knows enough to find a better optimized solution, but it can make understanding the implementation and debugging much easier.
+
+## Implementation - programming
+Doing everything from programming electrical system simulations, to inverse kinematics simulations to finite element analysis we are no strangers to programming models of the real world in order to make a prediction about a future state. We may not be able to code an entire operating system, but we can easily pick up a new programming language so that we can implement the linear algebra and multivariate calculus in order to train and test a machine learning model.
+
+## Conclusion
+I don't want this to come off as BMEs are the be all end all, that's certainly not the case. I do think they are a field that happens to be well adapted for many machine learning implementation and research tasks due to their wide skillset that has uses in the machine learning field. It's likely something that many startups and employers don't think about; I mean I didn't realize it until I happened to really think about. This is meant to be more of a call to BMEs, if you are thinking of getting into the field, don't hesitate. As well as a call to employers, if you are hesitating hiring someone with a background in Biomedical Engineering, don't.
