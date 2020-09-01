@@ -35,6 +35,12 @@ Using a class model visualization we see the listed characteristics are exactly 
 ## Method 2 - Saliency Map
 The saliency map shows us the rank of the pixels based on their influence for scoring a given image into a class using that particular scoring function. When thinking about a linear score model for a class, we know the weights tells the importance of those corresponding pixels when classifying into a particular class. In a non-linear function such as CNNs, although not able to be directly applied, can still be approximated with the linear function.
 
+Although, a great tool for a first pass, there are a few downsides which should be considered when using saliency maps.
+1. The pixels are very entangled with other pixels and far removed from high level concepts
+2. They only show the attribution for one class which makes exploration across a range of classes, or between two classes, really tough.
+
+With that said, it's still a great tool for certain situations.
+
 <figure class='half'>
   <a href='/assets/posts/understanding-models-through-visualization/westienorm.jpg'><img src='/assets/posts/understanding-models-through-visualization/westienorm.jpg'></a>
   <a href='/assets/posts/understanding-models-through-visualization/westiemap.jpg'><img src='/assets/posts/understanding-models-through-visualization/westiemap.jpg'></a>
