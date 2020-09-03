@@ -5,13 +5,12 @@ categories:
   - Product
 tags:
   - ML
-  - Product
+  - Product Development
 toc: true
 toc_sticky: true
 date: 2020-8-29
 ---
 <script id="MathJax-script" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
-<script async src="https://unpkg.com/mermaid@8.6.4/dist/mermaid.min.js"></script>
 
 ## Goals
 Having a good idea of which ML algorithm needs to be considered when creating a new product/feature is important when trying to reduce engineering time. Starting off with an incorrect algorithm can be an exercise in futility. This will only talk about algorithm types and not about the parameter nor hyperparameters you'll need to explore for each.

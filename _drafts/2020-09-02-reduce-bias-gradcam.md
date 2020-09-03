@@ -13,7 +13,6 @@ toc_sticky: true
 date: 2020-8-29
 ---
 <script id="MathJax-script" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
-<script async src="https://unpkg.com/mermaid@8.6.4/dist/mermaid.min.js"></script>
 
 ## Motivation
 Visual insight is an important tool that allows engineers to understand what a deep neural network is doing. Not only to satiate curiosity, but also to give insight which can be used for optimization of the machine learning algorithm. This article will give a brief overview of a technique to identify biases in the categorization of an object so that the team can focus how to reduce the bias and increase the test set accuracy.

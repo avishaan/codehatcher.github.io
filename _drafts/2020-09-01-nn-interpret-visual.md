@@ -12,7 +12,6 @@ toc_sticky: true
 date: 2020-8-29
 ---
 <script id="MathJax-script" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
-<script async src="https://unpkg.com/mermaid@8.6.4/dist/mermaid.min.js"></script>
 
 ## Motivation
 It's important to be able to understand the activation of the layers of a network. This is very similar to the post that references *deep representations* and it's parallel to how the visual cortex of the brain processes images. Increased understanding allows direct benefit to creating models as well as to satiating the innate curiosity everyone has. This additional understanding allows:

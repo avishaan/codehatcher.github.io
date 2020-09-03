@@ -13,7 +13,6 @@ toc_sticky: true
 date: 2020-8-29
 ---
 <script id="MathJax-script" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
-<script async src="https://unpkg.com/mermaid@8.6.4/dist/mermaid.min.js"></script>
 
 ## Intro
 Using the additional below metrics, in addition to the typical error/accuracy, can help when optimizing the model hyperparameters. This is particularly true when working with *skewed classes*. There are also product specific use cases to optimize one set of the below parameters over another. For example, if a user requires that nothing missed and is willing to have some false positives, then recall is important. Conversely, if a user wants to only make sure that positive predictors are extremely accurate, then precision is important
