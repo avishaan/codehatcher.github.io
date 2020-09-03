@@ -6,6 +6,7 @@ categories:
 tags:
   - ML
   - Math
+  - Optimization
 toc: true
 toc_sticky: true
 date: 2020-8-29
@@ -35,7 +36,7 @@ def swish(x):
 ### Sigmoid / Logistic / Soft Step
 Non-linear, continuous, monotonic, range \\( \in(0,1) \\)
 
-Very often used for a long period of time and one that is often introduced as the standard when getting started in machine learning. Partly because it is an easy jump coming from linear regression making your way to logistic regression. It's a function many are already familiar from their math background.
+Very often used for a long period of time and one that is often introduced as the standard when getting started in machine learning. Partly because it is an easy jump coming from linear regression making the way to logistic regression. It's a function many are already familiar from their math background.
 #### Function / Derivative
 \\[ f(x)=\sigma=\frac{1}{1+e^{-x}} \;, f'(x)=f(x)(1-f(x)) \\]
 #### Pseudocode
@@ -67,7 +68,7 @@ Relatively popular, although not as much since the advent of ReLU. Other than ra
 ### ReLU
 Non-linear, monotonic, range \\( \in [0,\infty) \\)
 
-One of the most popular functions, just looking at it many thought it wouldn't be a viable candidate. It almost makes you think anything is possible when considering the trade-offs below and comparing it to other functions
+One of the most popular functions, just looking at it many thought it wouldn't be a viable candidate. It almost makes one think anything is possible when considering the trade-offs below and comparing it to other functions
 
 #### Function / Derivative
 \\[ f(x) = \begin{cases} 0 & \ \text{if } x\leq0\\\ x & \ \text{if } x\gt0 \end{cases} \;, f'(x) = \begin{cases} 0 & \ \text{if } x\lt0\\\ 1 & \ \text{if } x\gt0 \end{cases} \\]
