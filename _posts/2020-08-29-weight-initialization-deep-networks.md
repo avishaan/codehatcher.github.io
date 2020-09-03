@@ -40,7 +40,7 @@ Set the variance:
 w[l] = np.random.randn(shape) * np.sqrt(1/n[l-1])
 ```
 
-### ReLU Initialization
+### ReLU / He Initialization
 Set the variance:
  \\[ Var[w_i] = \frac{2}{n} \\]
 ```python
