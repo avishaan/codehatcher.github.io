@@ -69,28 +69,3 @@ It's also important to consider the product impact as that can give alternate in
 
 ## Outro
 This is another lesson in **don't trust your intuition if you have another option**. Intuition and experience can be wrong at times, it can't hurt to spend a couple minutes doing a quick check before spending weeks performing a task. I adopted this technique from the book *The Pragmatic Programmer* and just applied it to the machine learning domain. I believe it can be applied to many engineering disciplines.
-
-## Math
-\\[ \frac{\partial J}{\partial \theta} \approx \lim_{\varepsilon \to 0} \frac{J(\theta + \varepsilon) - J(\theta - \varepsilon)}{2 \varepsilon} = \frac{\partial J}{\partial \theta_a} \\]
-
-Computing the difference $diff$ between the analytic implementation $\partial \theta$ and the numeric implementation $\partial \theta_a$
-
-\\[ diff = \frac{\vert\vert\partial\theta - \partial\theta_a\vert\vert_2}{\vert\vert\partial\theta\vert\vert_2 + \vert\vert\partial \theta_a\vert\vert_2} \\]
-
-If the difference is small, the numeric approximation and the analytic value suggest a common implementation
-
-## Code
-```python
-
-gradapprox = (J_plus-J_minus) / (2*epsilon)
-grad = backward_propagation(x, theta)
-
-numerator = np.linalg.norm(grad - gradapprox)                              # Step 1'
-    denominator = np.linalg.norm(grad) + np.linalg.norm(gradapprox)                             # Step 2'
-    difference = numerator / denominator
-
-if difference < 1e-7:
-        print ("The gradient is correct!")
-    else:
-        print ("The gradient is wrong!")
-```
