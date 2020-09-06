@@ -12,12 +12,12 @@ tags:
 toc: true
 toc_sticky: true
 ---
-This won't be close to exhaustive, it's more geared toward items I want to focus on. In general, I won't include items that would be picked up by a linter; you have a linter, it will tell you not to do this, so I am not going to tell you as well.
+This won't be close to exhaustive, it's more geared toward items I want to focus on. In general, I won't include items that would be picked up by a linter. You have a linter and it will tell you not to do this, so I am not going to tell you as well.
 
 ### var vs let
 - var is function scoped, ONLY
 - let is blocked scoped
-- var is partially accessable before being defined (temporal dead zone)
+- var is partially accessible before being defined (temporal dead zone)
 - accessing let before being defined causes reference error
 
 ```js

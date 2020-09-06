@@ -11,12 +11,12 @@ tags:
 toc: true
 toc_sticky: true
 ---
-There comes a time when you need to access the MongoDB database associated with your remote MUP (Meteor Up) deployment. According to [their docs](https://github.com/arunoda/meteor-up/tree/v0.11.3#accessing-the-database) the only way you can do this is to SSH in and access it from there. That's fine (and technically accurate) except that leaves you only with a console interface via `meteor mongo` which isn't always great. Here is an alternate method to get access to that database using 3T.
+There comes a time when you need to access the MongoDB database associated with your remote MUP (Meteor Up) deployment. According to [their docs](https://github.com/arunoda/meteor-up/tree/v0.11.3#accessing-the-database), the only way you can do this is to SSH in and access it from there. That's fine (and technically accurate) except that leaves you only with a console interface via `meteor mongo` which isn't always great. Here is an alternate method to get access to that database using 3T.
 
-It's not difficult to do and makes sense once you have done it one time, however there is little documentation on how to actually do it.
+It's not difficult to do and makes sense once you have done it one time. However, there is little documentation on how to implement it.
 
 ### 1) Download a MongoDB GUI
-Almost any will work as long as they allow you to access a database via an SSH tunnel. Having used RoboMongo, MongoHub, and MongoChef I definitely recommend 3T [MongoChef](http://3t.io/mongochef/).
+Almost any will work as long as they allow you to access a database via an SSH tunnel. Having used RoboMongo, MongoHub, and MongoChef I absolutely recommend 3T [MongoChef](http://3t.io/mongochef/).
 
 ### 2) Configure the SSH tunnel settings
 Enter in the details for whatever auth scheme you have setup.

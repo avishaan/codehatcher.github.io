@@ -15,19 +15,19 @@ date: 2020-8-29
 <script id="MathJax-script" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 
 ## Motivation
-Visual insight is an important tool that allows engineers to understand what a deep neural network is doing. Not only to satiate curiosity, but also to give insight which can be used for optimization of the machine learning algorithm. This article will give a brief overview of a technique to identify biases in the categorization of an object so that the team can focus how to reduce the bias and increase the test set accuracy.
+Visual insight is an important tool that allows engineers to understand what a deep neural network is doing. Not only to satiate curiosity but also to give insight that can be used for the optimization of machine learning algorithms. This article will give a brief overview of a technique to identify biases in the categorization of an object allowing the team can focus on how to reduce the bias and increase the test set accuracy.
 
-At best, high bias models  will not generalize well to a production environment. At worst it may even perpetuate stereotypes in race, gender, age that may cause legal ramifications for the company.
+At best, high bias models will not generalize well to a production environment. At worst it may even perpetuate stereotypes in race, gender, and age that may cause legal ramifications for the company and a poor experience for the users.
 
 ## Bias Identification
-The example given in the Grad-CAM research shows an ImageNet pretrained VGG-16 model used in a binary classification task of *doctor* vs *nurse*. In this case the gender balanced test set generalizes poorly even though it achieved good validation accuracy. When looking at the class activation maps for two detections, there is some data as to why that may be the case.
+The example given in the Grad-CAM research shows an ImageNet pretrained VGG-16 model used in a binary classification task of *doctor* vs *nurse*. In this case, the gender-balanced test set generalizes poorly even though it achieved good validation accuracy. When looking at the class activation maps for two detections, there is some data as to why that may be the case.
 
 <figure style='width: 100%' class='align-center'>
   <a href='/assets/posts/reduce-bias-gradcam/biased-cam.jpg'><img src='/assets/posts/reduce-bias-gradcam/biased-cam.jpg'></a>
   <figcaption>biased decision class activation mapping</figcaption>
 </figure>
 
-In the figure above, it seems the model was focused on the face to decide if the person was a nurse. This would easily strike *most* humans as an inaccurate method. With this visual insight, the model can optimized to have a higher test rate accuracy.
+In the figure above, it seems the model was focused on the face to decide if the person was a nurse. This would easily strike *most* humans as an inaccurate method. With this visual insight, the model can be optimized to have a higher test rate accuracy.
 
 <figure style='width: 100%' class='align-center'>
   <a href='/assets/posts/reduce-bias-gradcam/unbiased-cam.jpg'><img src='/assets/posts/reduce-bias-gradcam/unbiased-cam.jpg'></a>

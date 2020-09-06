@@ -25,7 +25,7 @@ Story added into Tracker: The acceptance criteria are agreed upon by design and 
 Feature or bug story is placed in backlog in order of priority as decided upon by engineering and design. There is no concept of low/medium/high only what gets done next. Chores are prioritized by engineering.
 
 ### Story Pointing
-Feature stories are pointed by the PM with the help of engineering and/or VPE. Stories with large points suggests that it’s estimates are not predictable and those stories should be broken into smaller more predictable values. This allows engineering to relay to business “how much time will something take” instead of “how hard is this to do”. Difficulty is a value which requires engineering context which design and business do not have. Time is a value which requires a context all teams have. 
+Feature stories are pointed by the PM with the help of engineering and/or VPE. Stories with large points suggest that it’s estimates are not predictable and those stories should be broken into smaller more predictable values. This allows engineering to relay to business “how much time will something take” instead of “how hard is this to do”. The difficulty is a value that requires engineering context which design and business do not have. Time is a value that requires a context all teams have. 
 Point estimates:
 
 Point|Description
@@ -33,11 +33,11 @@ Point|Description
 0 | simple replace of image, no coding or engineering
 1| engineering has done >2 times before
 2|engineering done it before or you have something you can reference
-4|engineering needs to do research before hand
+4|engineering needs to research beforehand
 8|engineering has no idea what to do - needs to be broken down into smaller tasks
 
 ### Story Assignment
 An assignment of a story to an engineer/designer should happen *sparingly*. If there is an engineer who has a specific skill set requiring them to be the only one to complete a story, they can be assigned. In most cases, a story should not be assigned to an engineer.
 
 ## Outro
-As always, use your judgement and adjust accordingly. Know how and when to adjust can be an art form but don't let that be demotivating. Keep the customer in mind and that should give you the intuition needed.
+As always, use your judgement and adjust accordingly. Know-how and when to adjust can be an art form but don't let that be demotivating. Keep the customer in mind and that should give you the intuition needed.

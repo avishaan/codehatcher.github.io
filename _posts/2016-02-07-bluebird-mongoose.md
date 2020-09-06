@@ -15,13 +15,13 @@ toc_sticky: true
 ---
 We are going to take common Mongoose use cases for finding and creating documents and going to use Bluebird (or more generally, any promise library that follows [Promises/A+](https://promisesaplus.com/implementations)) to migrate from the typical callback method to promises.
 
-There are many sites that show you simple examples of promises but sometimes you just: 
+There are many sites showing simple examples of promises but sometimes you just: 
 
 * need an example specific to what you are doing to understand it
 * need to just get going in it without fully understanding it
 
 I assume you have a basic understanding of Bluebird promises and an intermediate understanding of Mongoose otherwise these examples won't make sense. 
-I also assume you are convinced you need/want/should/could use promises instead of callbacks for Mongoose in Node. I am not here to convince you that you need to use promises.
+I also assume you are convinced you need/want/should use promises instead of callbacks for Mongoose in Node. I am not here to convince you that you need to use promises.
 
 ## Save a document
 Create a new document (review) in the database

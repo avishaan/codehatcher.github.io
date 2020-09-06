@@ -10,10 +10,10 @@ toc: true
 toc_sticky: true
 ---
 ## Introduction
-I've been lucky enough to lead many engineering teams and work closely with product, design, business, and marketing. From this perspective i've seen many repeating "problems* that teams face, it's rarely just engineers that aren't proficient. There are ways to address these issues which come from applying published methodologies and combining them with your own person experience.
+I've been lucky enough to lead many engineering teams and work closely with product, design, business, and marketing. From this perspective I've seen many repeating "problems* that teams face, it's rarely just engineers that aren't proficient. There are ways to address these issues which come from applying published methodologies and combining them with your own experience.
 
 These values are used when building any product. They are purposely high level and dictate the standard by which decisions should be made (different than principles or processes).
-The goal is to have an up-to-date list of overarching values that can be taken to any engineering team and used as a guide to increase the *performance* of a team. Some of this will be very opinionated from working with multiple engineering team, some will come from books like *The Pragmatic Programmer* or *Lean Startup* and some may come from *Zen Python* or the *Hackers Manifest*.
+The goal is to have an up-to-date list of overarching values that can be taken to any engineering team and used as a guide to increase the *performance* of a team. Some of this will be very opinionated from working with multiple engineering teams, some will come from books like *The Pragmatic Programmer* or *Lean Startup* and some may come from *Zen Python* or the *Hackers Manifest*.
 
 This article will only contain the guiding principals. Other articles will contain the process processes, principles, and sometimes step by step instructions.
 

@@ -46,7 +46,7 @@ With that said, it's still a great tool for certain situations.
   <a href='/assets/posts/understanding-models-through-visualization/westiemap.jpg'><img src='/assets/posts/understanding-models-through-visualization/westiemap.jpg'></a>
   <figcaption>saliency map</figcaption>
 </figure>
-For this westie, the saliency maps shows where the most important features are. This coincides with the human understanding of where to look in the photo to accurate identify the features of the dog. As in the example in beginning of this article, if the saliency map was showing activation in the background, there could be a problem worth debugging.
+For this Westie, the saliency maps shows where the most important features are. This coincides with the human understanding of where to look in the photo to accurate identify the features of the dog. As in the example in beginning of this article, if the saliency map was showing activation in the background, there could be a problem worth debugging.
 
 ## Conclusion
 This idea of exploring the intermediate layers of the neural network have many different methods that tell different things about a model. New methods of visualization for optimization are often coming out from the Google team so it's always good to check there for new approaches.

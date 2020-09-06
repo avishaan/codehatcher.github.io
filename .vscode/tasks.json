@@ -6,7 +6,8 @@
     {
       "label": "Jekyll Serve Drafs Live Reload",
       "type": "shell",
-      "command": "bundle exec jekyll server --livereload --drafts"
+      "command": "bundle exec jekyll server --livereload --drafts",
+      "problemMatcher": []
     }
   ]
 }

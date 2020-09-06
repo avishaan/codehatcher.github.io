@@ -32,7 +32,7 @@ The class activation maps, in this case specifically the gradient classification
 </figure>
 
 ## Weakly-supervised Segmentation
-Semantic segmentation is typically an expensive annotation task as it requires assigning each pixel in the image to an object/background class. There are variations of this where an algorithm can perform a segmentation with a weak localization seed. However, with an incorrect seed, that algorithm would not work. Using the above mentioned CAM map in combination Kolesnikov's work allows this to act as a reasonable seed obtaining an relatively high Intersection over Union (IoU) score.
+Semantic segmentation is typically an expensive annotation task as it requires assigning each pixel in the image to an object/background class. There are variations of this where an algorithm can perform segmentation with a weak localization seed. However, with an incorrect seed, that algorithm would not work. Using the above mentioned CAM map in combination Kolesnikov's work allows this to act as a reasonable seed obtaining a relatively high Intersection over Union (IoU) score.
 
 Although, these may not be as good as the ground truth or other algorithms. It's important to consider the product perspective by understanding how the users would respond to this method of segmentation. Would it be acceptable? Likely, yes.
 
@@ -42,4 +42,4 @@ Although, these may not be as good as the ground truth or other algorithms. It's
 </figure>
 
 ## Outro
-There are other interesting use cases, which will be mentioned in other posts. Most of the above insight comes from a combination of the Grad-CAM, Discriminative Localization, and Google's *convets learning exploration* which takes from Chollet's *Deep Learning with Python*. This article didn't go over the map or implementation as that's all available in the paper. 
+There are other interesting use cases, which will be mentioned in other posts. Most of the above insight comes from a combination of the Grad-CAM, Discriminative Localization, and Google's *convnets learning exploration* which takes from Chollet's *Deep Learning with Python*. This article didn't go over the map or implementation as that's all available in the paper. 

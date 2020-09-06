@@ -15,7 +15,7 @@ date: 2020-8-29
 <script id="MathJax-script" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 
 ## Intro
-Using the additional below metrics, in addition to the typical error/accuracy, can help when optimizing the model hyperparameters. This is particularly true when working with *skewed classes*. There are also product specific use cases to optimize one set of the below parameters over another. For example, if a user requires that nothing missed and is willing to have some false positives, then recall is important. Conversely, if a user wants to only make sure that positive predictors are extremely accurate, then precision is important
+Using the additional below metrics, in addition to the typical error/accuracy, can help when optimizing the model hyperparameters. This is particularly true when working with *skewed classes*. There are also product-specific use cases to optimize one set of the below parameters over another. For example, if a user story requires that nothing is missed and is willing to have some false positives, then recall is important. Conversely, if a user wants to only make sure that positive predictors are extremely accurate, then precision is important
 
 From a product development perspective, it is important to understand these metrics ahead of time before model training so that the correct hyperparameters can be picked.
 
@@ -73,7 +73,7 @@ Aka: selectivity, true negative rate (TNR)
 Aka: False positive rate (FPR)
 
 ### F1 Score
-Hybrid metric useful when there are unbalanced classes and the same importance is given to precision and recall.
+Hybrid metric that is useful when there are unbalanced classes and the same importance is given to precision and recall.
 \\[ F_1 = 2 \cdot \frac{PPV \cdot TPR}{PPV + TPR} \\]
 
 ### F𝜷 Score
@@ -81,7 +81,7 @@ More generalized F1 Score where a 𝜷 > 1 emphasizes recall over than precision
 \\[ F_\beta = (1 + \beta^2) \cdot \frac{PPV \cdot TPR}{\beta^2 \cdot PPV + TPR} \\]
 
 ## ROC / AUC
-Receiver operating curve is the plot of TPR vs FPR with AUC being the area under the ROC aka AUC/AUROC. This describes how well the model is capable of distinguishing between classes.
+The receiver operating curve is the plot of TPR vs FPR with AUC being the area under the ROC aka AUC/AUROC. This describes how well the model is capable of distinguishing between classes.
 
 <figure style='width: 100%' class='align-center'>
   <a href='/assets/posts/unsorted/roc-auc-en.png'><img src='/assets/posts/unsorted/roc-auc-en.png'></a>

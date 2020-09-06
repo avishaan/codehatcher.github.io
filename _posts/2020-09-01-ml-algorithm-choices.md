@@ -13,10 +13,9 @@ date: 2020-8-29
 <script id="MathJax-script" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 
 ## Goals
-Having a good idea of which ML algorithm needs to be considered when creating a new product/feature is important when trying to reduce engineering time. Starting off with an incorrect algorithm can be an exercise in futility. This will only talk about algorithm types and not about the parameter nor hyperparameters you'll need to explore for each.
-
+Having a good idea of which ML algorithm needs to be considered when creating a new product/feature is important when trying to reduce engineering time. Starting with an incorrect algorithm can be an exercise in futility. This article will only talk about algorithm types and not [about the parameter nor hyperparameters]({% post_url 2020-08-29-hyperparameter-tuning-model-optimization %}) you'll need to explore for each. 
 ### Supervised Learning
-When the requirement calls for understanding the relationship between the input and output data, this is the class of algorithms that will be used. Whether it's predicting a future state, or classifying an object, this type of learning generally requires a labeled dataset.
+When the requirement calls for understanding the relationship between the input and output data, this is the class of algorithms that will be used. Whether it's predicting a future state or classifying an object, this type of learning generally requires a labeled dataset.
 
 #### Classification
 ##### Single Category
@@ -30,18 +29,18 @@ Single category will still be two-class where the answer might be yes/no, dog/mu
 - boasted decision tree: accuracy, fast train
 - neural network: long training, high accuracy
 ##### Multiclass
-Multi class/category allows something similar to identifying what type of dog from the choice of poodle, collie, frenchie, and westie.
+Multi-class/category allows something similar to identifying what type of dog from the choice of poodle, collie, frenchie, and westie.
 - multiclass logistic regression: fast train
 - neural network: long training, high accuracy
 - decision forest: accuracy, fast training
 - decision jungle: small memory footprint
-- one-v-all: based on two class classifier
+- one-v-all: based on two-class classifier
 
 #### Value Prediction
 Forecast the future by understanding the contribution of input variables to it's output.
 ##### Regression
 - ordinal: rank ordered categories
-- poisson
+- Poisson
 - fast forest quantile: predicting a distribution
 - decision forest: fast training
 - neural network: high accuracy, long train
@@ -66,4 +65,4 @@ Find the unusual and rate data points and outliers that are anomalous or even re
 - autoencoders
 
 ## Conclusion
-Above was a relatively small list with some direction on how to decide what a product manager needs in order to create a powerful user experience. Instead of being an exhaustive list of options with parameters this can be used an exploratory guide. Other posts will have more into the details of the algorithms and will be more geared to machine learning engineers.
+Above was a relatively small list with some direction on how to decide what a product manager needs to create a powerful user experience. Instead of being an exhaustive list of options with parameters, this can be used in an exploratory guide. Other posts will have more into the details of the algorithms and will be more geared to machine learning engineers.

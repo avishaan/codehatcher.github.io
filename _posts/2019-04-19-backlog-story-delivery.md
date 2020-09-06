@@ -9,17 +9,17 @@ toc: true
 toc_sticky: true
 ---
 ## Introduction
-The below backlog story development and delivery process outlines that the head of engineering or even CTO can take to have alignment with product and business on efficient and bugless(ish) delivery.
+The below backlog story development and delivery process outlines that the head of engineering or even CTO can use to have alignment with product and business. The process optimizes for an efficient and bugless(ish) delivery.
 
-Although written specifically for Tracker, I've personally used similar techniques with everything from customized instances of redmine, to lightweight GH issues, to heavyweight JIRA.
+Although written specifically for Tracker, I've personally used similar techniques with everything from customized instances of Redmine, to lightweight GH issues, to heavyweight JIRA.
 
 ## Process
 Engineering follows the below steps when popping a story off the backlog.
 ### 1. Starting Stories
-Feature stories with points are assigned in the “Iteration/Backlog” category, no blockers, no “needs” (such as missing files) can be started. Bugs and chores do not require points in order to be begun but still require everything else to be in order.
+Feature stories with points are assigned in the “Iteration/Backlog” category, no blockers, no “needs” (such as missing files) can be started. Bugs and chores do not require points but still require everything else to be in order.
 ### 2. Priority Order
-Stories should be started in order from highest priority to lowest at all times, that means the highest story that meets the above criteria should always be started no matter what.
-### 3. Story Assignment
+Stories should be started in order from highest priority to lowest at all times, which means the highest story that meets the above criteria should always be started no matter what.
+### 3. Assign
 Start a story either assigned to you or not assigned to anyone by clicking on the “start" button.
 ### 4. Single Tasking
 Start only one story at a time; there should not be multiple started stories by a person. Multiple started stories blocks others from taking on a task.
@@ -35,11 +35,11 @@ If something is missing from the story:
 
 ### 5. Add Tasks
 Add tasks into the story under the tasks section as the first step after starting a story so that the rest of the team can see progress as you go through and update it.
-### 6. Connected Branch
+### 6. Connect Branch
 A new branch in the codebase needs to be created following the Tracker format here: For example, creating a branch with the name 123123-super-cool-feature will attach it to the story with id 123123.
 ### 7. Test Cases
 First commit onto branch should be applicable test cases as specified in the story.
-### 8. Finished Story
+### 8. Finish Story
 Stories are only marked as finished once the code has been:
 
 1. updated into GitHub
@@ -50,9 +50,9 @@ Stories are only marked as finished once the code has been:
 6. able to be downloaded/tested by Head of Engineering, Head of Product, PM, and QA.
 ## Exceptions
 ### LOE Adjustment
-As a engineer, if you start a story and you realize that the LOE is not what you expected or that you need to take a substantially different implementation path than what you had allowed for during the IPM, you should let the PM know. This is especially important if it looks like it will take considerably longer than originally pointed. This is because there may be other more important priorities.
+As an engineer, if you start a story and you realize that the LOE is not what you expected or that you need to take a substantially different implementation path than what you had allowed for during the IPM, you should let the PM know. This is especially important if it looks like it will take considerably longer than originally pointed. This is because there may be other more important priorities.
 ### Restart Implementation
-As an engineer if you start down an implementation path and then you realize you need to “restart from the beginning of your branch,” it is best to revert commits to the start of the branch and then resume instead of just removing the branch and starting over. This process gives the lead engineer a chance to work with the PM to decide if we should proceed down the new path from a technical standpoint given the original implementation didn’t work or even get another engineer to help with the initial implementation in case there was something small that needed to be changed
+As an engineer, if you start down an implementation path and then you realize you need to “restart from the beginning of your branch,” it is best to revert commits to the start of the branch and then resume instead of just removing the branch and starting over. This process gives the lead engineer a chance to work with the PM to decide if we should proceed down the new path from a technical standpoint given the original implementation didn’t work or even get another engineer to help with the initial implementation in case there was something small that needed to be changed
 
 ## Outro
 The above process is meant to be a starting point potentially requiring some adjustments to your current workflow. Keep in mind, some of the processes are purposefully not flexible and require discipline or focus. It may take time to enable that in a team but will be worth the investment.

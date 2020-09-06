@@ -11,9 +11,9 @@ tags:
 toc: true
 toc_sticky: true
 ---
-When it comes to aligning development with devops with QA, I don't think anything comes close to SwaggerJS right now. In San Francisco I was able to meet some of the founders to talk to them more about it. I didn't realize how big they had become but I'm not surprised. I talked about it a little in a post from 2014.
+When it comes to aligning development with devops with QA, I don't think anything comes close to SwaggerJS right now. In San Francisco, I was able to meet some of the founders to talk to them more about it. I didn't realize how big they had become but I'm not surprised. I talked about it a little in a post from 2014.
 
-## Response with sub properties using references
+## Response with sub-properties using references
 
 ```json
 "ReadOnePost": {
@@ -43,7 +43,7 @@ When it comes to aligning development with devops with QA, I don't think anythin
         }
       },
 ```
-## Response with sub properties which is an array of objects using reference
+## Response with sub-properties which is an array of objects using reference
 
 ```json
     "ReadOnePost": {
@@ -78,7 +78,7 @@ When it comes to aligning development with devops with QA, I don't think anythin
     },
 ```
 
-## Response with sub properties which is an array of objects NOT using reference
+## Response with sub-properties which is an array of objects NOT using reference
 
 ```json
     "CreatePost": {

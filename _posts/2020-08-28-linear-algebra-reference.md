@@ -16,9 +16,9 @@ toc_sticky: true
 ## Motivation
 I focus on properties that help give an intuition on what is happening. I try to avoid rote calculation since machines are wonderful at computation. Machines aren't great at debugging themselves, that's where intuition comes in.
 
-A reference that maps common iterative mathematical syntax to linear algebra syntax is helpful to have around when implementing Machine Learning algorithms. A quick reference can mean the difference between understanding a topic or finding the bug in your code. Here are some of the common equations, axioms, and theorems I personally reference on a regular basis. 
+A reference that maps common iterative mathematical syntax to linear algebra syntax is helpful to have around when implementing Machine Learning algorithms. A quick reference can mean the difference between understanding a topic or finding the bug in your code. Here are some of the common equations, axioms, and theorems I reference regularly. 
 
-Assuming \\( \mathbf{A}, \mathbf{B}, \mathbf{C} \in \mathbb{R}^2 \\) and also \\( \vec{r}, \vec{s}, \vec{t} \in \mathbb{R}^{2 \times 1} \\)
+Assuming, \\( \mathbf{A}, \mathbf{B}, \mathbf{C} \in \mathbb{R}^2 \\) and also \\( \vec{r}, \vec{s}, \vec{t} \in \mathbb{R}^{2 \times 1} \\)
 \\[
     \begin{bmatrix}
     A_{1,1} & A_{1,2} \\\
@@ -93,13 +93,13 @@ Now is a good time to remind ourselves the matrix product is not commutative. It
 \\[ \mathbf{SR} \ne \mathbf{RS} \\]
 
 ### Singular / Degenerate
-This is a matrix that can't be inverted. A reason for this is the transformation reduces the basis *perhaps it collapses a whole set of vectors in the input to a lower dimension in the output* such as that happens when an entire line of input vectors are collapsed into a point. It can't be inverted because by definition a function can only map 1 input to 1 output and in order to undo the collapse you would have to map 1 output to multiple inputs. Something that a function can't do.
+This is a matrix that can't be inverted. A reason for this is the transformation reduces the basis *perhaps it collapses a whole set of vectors in the input to a lower dimension in the output* such as that happens when an entire line of input vectors are collapsed into a point. It can't be inverted because by definition a function can only map 1 input to 1 output and to undo the collapse you would have to map 1 output to multiple inputs. Something that a function can't do.
 
 Square matrices are singular if their determinant is 0
 
 ### Determinant
 Is a scalar of a matrix that describes how the area of any object in the transformed space has changed due to the transformation. By paying attention to how one square transforms, you'll know how any object has transformed.
 
-Determinant of 0 suggests that the transformation has collapsed into a lower dimension (no longer at full rank) and that the system of equations are linearly dependent. We can't reverse this with a function so it doesn't have an inverse.
+A determinant of 0 suggests that the transformation has collapsed into a lower dimension (no longer at full rank) and that the system of equations is linearly dependent. We can't reverse this with a function so it doesn't have an inverse.
 
-Determinant which is negative "flips" the space the object is on across one of the basis (this is how I think about it)
+A negative determinant "flips" the space the object is on across one of the basis (this is how I think about it)

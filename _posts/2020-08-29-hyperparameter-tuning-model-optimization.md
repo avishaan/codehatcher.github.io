@@ -46,7 +46,7 @@ alpha_d = (1 / (1 + decay_rate*epoch_num)) * alpha
 For models that may take multiple days to run, a "do it by hand" approach can be a viable option
 
 ### Decay Functions
-Different decay rate functions *could* also be considered a hyperparameter to be changed. Iterating through different functions would likely be in a random order.
+Different decay rate functions *could* also be considered a hyperparameter to be changed. Iterating through different functions would likely be in random order.
 #### Exponential
 \\[ \alpha_d = 0.95^{\text{epoch_num}}\alpha \\]
 \\[ \alpha_d = \frac{k}{\sqrt{\text{epoch_num}}}\alpha \; \text{or} \; \frac{k}{\sqrt{t}}\alpha \\]
@@ -60,16 +60,16 @@ Different decay rate functions *could* also be considered a hyperparameter to be
 \\]
 
 ## Deep Neural Network Weight
-Our DNN/Perceptron models have [starting weights]({% post_url 2020-08-29-weight-initialization-deep-networks %}) that need to be initialized. We can add a factor to this in order to change how the weights are initialized. Overall, this is considered a *low priority* and other optimization parameters should be considered first.
+Our DNN/Perceptron models have [starting weights]({% post_url 2020-08-29-weight-initialization-deep-networks %}) that need to be initialized. We can add a factor to change how the weights are initialized. Overall, this is considered a *low priority* and other optimization parameters should be considered first.
 
 ## Activation Functions
 Trying and iterating through different activation functions in different layers can be a hyperparameter worth tuning. Sigmoid, Tanh, ReLU are some commonly used examples.
 
 ## Batch Size
-Picking a batch, or mini-batch, size can be a tunable parameter. A strategy of increasing the batch size as the cost decreases is viable. This makes sense as when batches are small we make bigger but less "precise" jumps while when the batch is large we make slower but more "precise" jumps. In order to get the best of both worlds, start with a small batch and increase it as you converge. One way is to look at the current error and the error when you last decreased and decrease the batch size by some percentage.
+Picking a batch, or mini-batch, size can be a tunable parameter. A strategy of increasing the batch size as the cost decreases is viable. This makes sense as when batches are small we make bigger but less "precise" jumps while when the batch is large we make slower but more "precise" jumps. To get the best of both worlds, start with a small batch and increase it as you converge. One way is to look at the current error and the error when you last decreased and decrease the batch size by some percentage.
 
 ## Optimization Algorithm Parameters
-Different optimization algorithms have different parameters for adjustment. A couple examples are given for the most common ones but we can always investigate the parameters we need to tune for others. Most likely you will want to increase your learning rate \\( \alpha \\) since you are dampening.
+Different optimization algorithms have different parameters for adjustment. A couple of examples are given for the most common ones but we can always investigate the parameters we need to tune for others. Most likely you will want to increase your learning rate \\( \alpha \\) since you are dampening.
 ### Gradient Descent with Momentum
 Increase the slope of the direction of gradient descent in the direction where there has been faster descent over the past few iterations generally described by \\( \beta \\) which can be tuned
 \\[ V_{\partial w^{[l]}}^{\text{corrected}} = \beta V_{\partial w^{[l]}} + (1-\beta)\partial w^{[l]} \\]
