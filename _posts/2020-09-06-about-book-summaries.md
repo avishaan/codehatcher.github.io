@@ -1,6 +1,6 @@
 ---
 title: "About Book Summaries" 
-excerpt: "A short explanation to explain why I put my book reviews"
+excerpt: "A short post to explain why I even put my book reviews on here"
 categories:
   - Book Reviews
 tags:

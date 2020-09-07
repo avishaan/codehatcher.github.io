@@ -12,7 +12,7 @@ toc_sticky: true
 # Intro
 I think when I originally read this book in 2014 I was excited to have something from a PayPal founder and Facebook investor. All I had read up to that time was maybe the *The $100 Startup* and, of course, *The Lean Startup*. Actually, I had already heard half of the lessons from my startup friends in San Francisco before I even opened the book.
 
-{% include book_para.md %}
+{% include book-para.md %}
 
 # Summary
 Peter feels that only those with the ability to flee established conventions can come up with new ideas capable of achieving horizontal progress. Horizontal progress is the ability to go from "0 to 1" while vertical progress is the ability to go from "1 to n". The question Peter asks when recruiting is, "What popular belief do you disagree with? Why?" to identify those who can challenge the assumptions of a given system; something critical to going from 0 to 1.
@@ -40,3 +40,6 @@ Peter feels that founders are not ordinary people nor easy to deal with. They te
 
 # Outro
 Of course, this is the book on every co-founder's bookshelf, mine included. (Well, virtual bookshelf). It seems wrong not to include it as part of startup "cannon" so definitely worth checking out if for no other reason than as a water-cooler topic.
+
+
+{% include bookshelf-montage.html shelf-name="ml" %}>
