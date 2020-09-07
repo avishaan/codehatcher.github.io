@@ -1,0 +1,14 @@
+---
+title: "About Book Summaries" 
+excerpt: "A short explanation to explain why I put my book reviews"
+categories:
+  - Book Reviews
+tags:
+---
+I wanted a short article to explain why I even put book reviews/summaries on my blog, especially considering this started off 99% as a blog for myself; and still is for the most part. I already summarize and take notes on everything I read. I want a reminder for myself to keep the ideas fresh in my mind. I started to share these notes with others in the startup community to the point where I eventually decided to just keep a little mini-site up in case it helps others who stumble upon it. My summaries aren't the best, they aren't meant to me. But they are focused on those who are engineering leads who want to prioritize technological aspects as well as the relationship aspects of their profession. The intersection of those types of blogs seems to be in short supply; likely because everyone is so busy innovating.
+
+When reading I focus on how lessons apply to startups in general specifically from the perspective as an engineering lead such as CTO, CIO, or Head of Engineering. I also try and connect it to other books in the space focusing on the commonalities as a proxy for "good" advice. That also means I'll occasionally re-read a book to gain additional perspectives. You'll see me regularly connect ideas to cognitive biases, other books, machine learning, etc. I try and go overboard since, in my mind, there are many more connections that would be exhausting to list in a blog that is meant as a reference point.
+
+I don't always agree with everything in a book. I think I can say I have never agreed with *everything* in a book. I try and remain open to it and you should do. Part of what I try is to gain a breadth of experience into spaces that may not be directly related to what I do day to day but can be used to gain insight elsewhere. Often, ideas that I originally disagreed with all of a sudden became useful. The idea didn't change, just the context. Your context may vary, take that into account when you look at summaries or read anything.
+
+If you are just getting started, the piece of advice I have for you is to interact with people more. These books and articles are a good start and give you the tools you need. Having the tools available give you an option when encountering a unique situation. But just like a craftsman it's just as important to hone your skill as well as having honed tools. If you are in San Francisco, there are so many tech meetup groups that you can join. Get in there, give a quick talk, and learn and communicate with others. Explore those intricate social dynamics and realize that no matter how much we "wish" our spoken language was as easy as programming it never will be. Everyone runs their own slightly different interpreter.
