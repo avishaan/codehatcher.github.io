@@ -15,7 +15,7 @@ I think when I originally read this book in 2014 I was excited to have something
 {% include book-para.md %}
 
 # Summary
-Peter feels that only those with the ability to flee established conventions can come up with new ideas capable of achieving horizontal progress. Horizontal progress is the ability to go from "0 to 1" while vertical progress is the ability to go from "1 to n". The question Peter asks when recruiting is, "What popular belief do you disagree with? Why?" to identify those who can challenge the assumptions of a given system; something critical to going from 0 to 1.
+Peter feels that only those with the ability to flee established conventions can come up with new ideas capable of achieving horizontal progress. Horizontal progress is the ability to go from "0 to 1" while vertical progress is the ability to go from "1 to n". The question Peter asks when recruiting is, "What popular belief do you disagree with? Why?" to identify those who can challenge the assumptions of a given system; something critical to going from 0 to 1. Brian Chesky from AirBnB has an amazing exercise called "the 11-star experience" that can help with assumption challenging.
 
 ## Master Your Destiny
 Be active in building your future. You aren't a passenger but the driver that is ultimately making decisions. Peter recommends being focused in a subject/domain instead of understanding a broad range of topics. The idea that this way you can be the best at one thing. More reading about what it means to focus and the outcomes I recommend checking out *Outliers: The Story of Success* by Malcolm Gladwell as well as discussion pieces on why the 10,000-hour rule mentioned in the book is incorrect.

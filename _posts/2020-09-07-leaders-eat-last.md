@@ -40,7 +40,7 @@ The *most* important thing is to be able to create ties with others. The relatio
 ## Long Term Priority
 Simon compares GE and Costco. 
 ### GE
-CEO, Jack Welsch prioritized short term gains which eventually tanked the company. The company culture was a roller-coaster because of a dopamine addicted CEO who would fire the bottom 10% of the company trying to maintain short term profits. I had heard some of these stories first hand and it seemed like the type of culture where you were not incentivized to work as a team and instead prioritized your self-interests.
+CEO, Jack Welsh prioritized short term gains which eventually tanked the company. The company culture was a roller-coaster because of a dopamine addicted CEO who would fire the bottom 10% of the company trying to maintain short term profits. I had heard some of these stories first hand and it seemed like the type of culture where you were not incentivized to work as a team and instead prioritized your self-interests.
 
 ### Costco
 CEO Jeff Sinegal focused on the long term which shows in the slow steady growth of the company. During times of crisis, it is said that Jeff would focus on investing in employees instead of firing them. Very different from GE.
