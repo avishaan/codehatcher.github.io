@@ -42,4 +42,4 @@ Peter feels that founders are not ordinary people nor easy to deal with. They te
 Of course, this is the book on every co-founder's bookshelf, mine included. (Well, virtual bookshelf). It seems wrong not to include it as part of startup "cannon" so definitely worth checking out if for no other reason than as a water-cooler topic.
 
 
-{% include bookshelf-montage.html shelf-name="ml" %}>
+{% include bookshelf-montage.html shelf-name="mgmt" %}

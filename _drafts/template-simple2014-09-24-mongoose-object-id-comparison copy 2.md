@@ -9,6 +9,7 @@ tags:
   - Database
 toc: true
 toc_sticky: true
+date: 2020-8-29
 ---
 Forget about nonsense like this in order to compare two Mongoose Ids
 
