@@ -21,7 +21,7 @@ This book doesn't include large swaths of horizontal data but rather focuses on 
 > <cite> Stephen R. Covey </cite>
 
 # Summary
-Lincoln is generally considered one of the greatest presidents in history. He believed that whatever you do in life, you should do it with good intentions. He believed that was the only way to truly lead other people to greatness. Everyone was a person who deserved respect and a chance to express themselves.
+Lincoln is generally considered one of the greatest presidents in history. He believed that whatever you do in life, you should do it with good intentions. He believed that was the only way to truly lead other people to greatness. Everyone was a person who deserved respect and a chance to express themselves. Honesty and integrity are absolutes. The ability to handle *unjust* criticism is a necessity.
 
 ## Interact with the Entire Team
 Lincoln would personally interact with the soldiers of the regiments that passed through Washington D.C. despite being so busy. Modern leadership consultants have a name for this strategy, MBWA. Leadership advocates think management by wandering around, although burdensome for the leader, has big advantages in the long run. I would say this is similar to how [Leaders Eat Last]({% post_url 2020-09-07-leaders-eat-last %}#empathy) recommends empathy to understand your team.
