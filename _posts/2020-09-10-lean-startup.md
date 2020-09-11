@@ -19,8 +19,7 @@ This is a book almost every single one of my friends has read. Almost everyone i
 # Summary
 In extreme uncertainty, a startup is an organism meant to create a repeatable
 and scalable business model. The author presents the "The Lean Startup
-Methodology" not to be confused with something else I regularly mention, "Lean
-Product Methodology". Although, they do have overlap in many principles.
+Methodology".
 
 <figure style='width: 100%' class='align-center'>
   <a href='/assets/posts/unsorted/product-development.jpg'><img src='/assets/posts/unsorted/product-development.jpg'></a>

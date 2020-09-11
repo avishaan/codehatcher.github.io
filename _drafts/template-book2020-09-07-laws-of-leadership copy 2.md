@@ -1,5 +1,5 @@
 ---
-title: "Thinking, Fast and Slow" 
+title: "Crossing the Chasm" 
 excerpt: "An explanation of the two systems that drive the mind"
 categories:
   - Book Reviews
