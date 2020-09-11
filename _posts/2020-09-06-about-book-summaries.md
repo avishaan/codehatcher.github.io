@@ -2,7 +2,7 @@
 title: "About Book Summaries" 
 excerpt: "A short post to explain why I even put my book reviews on here"
 categories:
-  - Book Reviews
+  - about
 tags:
 ---
 I wanted a short article to explain why I even put book reviews/summaries on my blog, especially considering this started off 99% as a blog for myself; and still is for the most part. I already summarize and take notes on everything I read. I want a reminder for myself to keep the ideas fresh in my mind. I started to share these notes with others in the startup community to the point where I eventually decided to just keep a little mini-site up in case it helps others who stumble upon it. My summaries aren't the best, they aren't meant to me. But they are focused on those who are engineering leads who want to prioritize technological aspects as well as the relationship aspects of their profession. The intersection of those types of blogs seems to be in short supply; likely because everyone is so busy innovating.

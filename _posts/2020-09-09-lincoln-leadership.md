@@ -2,13 +2,14 @@
 title: "Lincoln on Leadership" 
 excerpt: "An examination of Lincoln's leadership abilities and how they can be applied to today."
 categories:
-  - Book Reviews
-  - Book Notes
+  - book notes
 tags:
-  - Leadership
+  - leadership
 toc: true
 toc_sticky: true
 date: 2020-9-9
+header:
+  teaser: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442803705l/1252._SY475_.jpg
 ---
 # Intro
 As always, I don't agree with or use everything I read, but I will still try and summarize it here. {% include book-para.md %}

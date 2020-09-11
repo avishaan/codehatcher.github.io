@@ -3,8 +3,9 @@ title: "The 21 Irrefutable Laws of Leadership"
 excerpt: "A review and summary of one of the foundational startup books."
 categories:
   - Books
+  - book summary
 tags:
-  - Startup
+  - startup
 toc: true
 toc_sticky: true
 ---

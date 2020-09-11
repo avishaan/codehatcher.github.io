@@ -2,13 +2,14 @@
 title: "Crossing the Chasm" 
 excerpt: "Marketing and selling high-tech products to mainstream customers."
 categories:
-  - Book Reviews
-  - Book Notes
+  - book notes
 tags:
-  - Product
+  - product
 toc: true
 toc_sticky: true
 date: 2020-9-10
+header:
+  teaser: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421709292l/61329.jpg
 ---
 # Intro
 As always, I don't agree with or use everything I read, but I will still try and

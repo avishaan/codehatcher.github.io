@@ -2,14 +2,15 @@
 title: "The Innovators" 
 excerpt: "Most innovations in the digital age were done collaboratively. This is the story of why their ability to work as a team made them so creative and successful"
 categories:
-  - Book Reviews
-  - Book Notes
+  - book notes
 tags:
-  - Startup
-  - Leadership
+  - startup
+  - leadership
 toc: true
 toc_sticky: true
 date: 2020-9-9
+header:
+  teaser: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410191571l/21856367.jpg
 ---
 # Intro
 As always, I don't agree with or use everything I read, but I will still try and summarize it here. {% include book-para.md %}

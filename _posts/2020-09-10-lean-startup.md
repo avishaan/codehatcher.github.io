@@ -2,14 +2,15 @@
 title: "The Lean Startup" 
 excerpt: "Most startup failures are preventable. How to leverage both human creativity and capital more efficiently"
 categories:
-  - Book Reviews
-  - Book Notes
+  - book notes
 tags:
-  - Startup
-  - Product
+  - startup
+  - product
 toc: true
 toc_sticky: true
 date: 2020-9-10
+header:
+  teaser: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333576876l/10127019.jpg
 ---
 # Intro
 As always, I don't agree with or use everything I read, but I will still try and summarize it here. {% include book-para.md %}

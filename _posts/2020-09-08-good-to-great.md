@@ -10,6 +10,8 @@ tags:
 toc: true
 toc_sticky: true
 date: 2020-9-8
+header:
+  teaser: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546097703l/76865.jpg
 ---
 # Intro
 As always, I don't agree with or use everything I read, but I will still try and summarize it here. {% include book-para.md %}

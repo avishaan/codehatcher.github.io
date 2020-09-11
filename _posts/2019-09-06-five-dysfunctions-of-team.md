@@ -8,6 +8,8 @@ tags:
   - Engineering Leadership
 toc: true
 toc_sticky: true
+header:
+  teaser: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400841022l/21343.jpg
 ---
 # Intro
 As everything else, I read and summarize I try and take notes that I can refer to myself at a later date. Either as a reminder to myself on what I have learned or so others taking the same path can gain insight into the lessons of a book. When reading I focus on how lessons apply to startups from the perspective of the engineering lead such as a CTO, CIO, or Head of Engineering.
