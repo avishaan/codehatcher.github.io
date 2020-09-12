@@ -9,6 +9,7 @@ tags:
   - math
 toc: true
 toc_sticky: true
+date: 2020-8-28
 ---
 <script id="MathJax-script" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 <script async src="https://unpkg.com/mermaid@8.6.4/dist/mermaid.min.js"></script>

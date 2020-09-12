@@ -10,7 +10,7 @@ tags:
   - leadership strategy
 toc: true
 toc_sticky: true
-date: 2020-9-9
+date: 2018-4-9
 header:
   teaser: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410191571l/21856367.jpg
 ---

@@ -8,6 +8,7 @@ tags:
   - engineering strategy
 toc: true
 toc_sticky: true
+date: 2020-4-15
 header:
   teaser: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401432508l/4099.jpg
 ---

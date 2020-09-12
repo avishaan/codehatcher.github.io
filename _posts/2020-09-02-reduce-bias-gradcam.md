@@ -10,7 +10,7 @@ tags:
   - class activation mapping
 toc: true
 toc_sticky: true
-date: 2020-8-29
+date: 2020-4-12
 ---
 <script id="MathJax-script" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 

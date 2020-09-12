@@ -7,6 +7,7 @@ tags:
   - engineering execution
 toc: true
 toc_sticky: true
+date: 2018-11-19
 ---
 ## Introduction
 The below backlog story development and delivery process outlines how the head of engineering or even CTO can use it to create alignment with product and business. The process optimizes for an efficient and bugless(ish) delivery.

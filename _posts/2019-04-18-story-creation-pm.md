@@ -7,6 +7,7 @@ tags:
   - engineering execution
 toc: true
 toc_sticky: true
+date: 2018-10-18
 ---
 ## Introduction
 The below backlog process for product managers gives a workflow to be used when focusing on value to a customer. It's written to help give insight into an efficient product (and therefore engineering) workflow.

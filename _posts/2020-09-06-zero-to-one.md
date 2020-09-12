@@ -9,6 +9,7 @@ tags:
   - product strategy
 toc: true
 toc_sticky: true
+date: 2017-2-6
 header:
   teaser: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414347376l/18050143.jpg
 ---

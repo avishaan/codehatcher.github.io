@@ -10,7 +10,7 @@ tags:
   - class model visualization
 toc: true
 toc_sticky: true
-date: 2020-8-29
+date: 2020-1-15
 ---
 
 ## Motivation

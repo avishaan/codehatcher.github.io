@@ -7,6 +7,7 @@ tags:
   - engineering execution
 toc: true
 toc_sticky: true
+date: 2018-11-28
 ---
 ## Introduction
 I've been lucky enough to lead many engineering teams and work closely with product, design, business, and marketing. From this perspective I've seen many repeating "problems* that teams face, it's rarely just engineers that aren't proficient. There are ways to address these issues which come from applying published methodologies and combining them with your own experience.

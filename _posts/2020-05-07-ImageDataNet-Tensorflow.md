@@ -10,6 +10,7 @@ tags:
   - Tensorflow
   - Keras
   - ImageNet
+date: 2019-10-5
 ---
 
 Good organization is key when it comes to the performance of our engineering team. When it comes to training and validation of an ML algorithm, there are some best practices. Using the `ImageDataGenerator` class from Keras gives us an easy way to organize a dataset. Maintaining this from the in-house tagging we have, to CI/CD, and through release giving us a shorter release cycle with fewer bugs. ImageNet will automatically label these images for us removing a coding step.

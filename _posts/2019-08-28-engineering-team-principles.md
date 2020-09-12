@@ -7,6 +7,7 @@ tags:
   - engineering strategy
 toc: true
 toc_sticky: true
+date: 2019-12-20
 ---
 ## Introduction
 While leading multiple engineering teams there are many patterns that emerge. I can see the reason for some of these even based in my own background as an engineer. On the engineering side, we don't always consider the larger ramifications for the decisions that are made. Nor do we always have the full perspective on why we create what we do. Engineering team principles give a starting point for what the team should focus on to make sure the team is ultimately successful and fulfilled.
