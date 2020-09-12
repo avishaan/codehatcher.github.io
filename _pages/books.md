@@ -22,7 +22,7 @@ taxonomy: book notes
           align-items: center;
         }
       </style>
-{%- for post in site.categories[{{page.taxonomy}}] -%}
+{%- for post in site.categories[page.taxonomy] -%}
 {%- unless post.hidden -%}
 {% if post.header.teaser %}
 {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
