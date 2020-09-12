@@ -32,7 +32,7 @@ MathJax = {
 ## Intro
 Ceiling analysis is a rational method to understand the maximum potential of a machine learning pipeline. I have used the below to direct an engineering and product team successful in prioritization of work. It can allow at least two strategies to emerge
 1. What opportunity is there on the product side to fulfill the requirements?
-2. Where should the engineering team focus their development efforts for maximum performance increase?
+2. Where should the engineering team focus their development efforts for the maximum performance increase?
 
 ### Product Consideration
 Knowing the potential of a machine learning pipeline allows the product team to coordinate with business, users, and designs to manage expectations. If the ceiling analysis determines a module is unable to reach a performance level specified in a requirement or user story, adjustments can be made and new requirements prioritized.
@@ -66,8 +66,8 @@ To decide where engineering time should be spent a ceiling analysis should be pe
 From this quick analysis, we see which component has the largest opportunity for improvement. The caveat to this is mentioned in the outro. What is clear from the ceiling analysis is the `remove_background` module works as well as it can and has minimal opportunity for improvement.
 
 ## Considerations & Nuance
-There are a couple other considerations not mentioned in standard ceiling analysis and that is the understanding of the current state of art. As an example, even if an individual component has a low accuracy rate, perhaps it is still state of the art and has no room for improvement. Personally, I'll assign it an additional score and take that into account when doing my analysis. I find this is helpful when discussing as a team the next steps. 
+There are a couple of other considerations not mentioned in standard ceiling analysis and that is the understanding of the current state of art. As an example, even if an individual component has a low accuracy rate, perhaps it is still state of the art and has no room for improvement. Personally, I'll assign it an additional score and take that into account when doing my analysis. I find this is helpful when discussing as a team the next steps. 
 It's also important to consider the product impact as that can give alternate insight on where to focus efforts.
 
 ## Outro
-This is another lesson in **don't trust your intuition if you have another option**. Intuition and experience can be wrong at times, it can't hurt to spend a couple minutes doing a quick check before spending weeks performing a task. I adopted this technique from the book *The Pragmatic Programmer* and just applied it to the machine learning domain. I believe it can be applied to many engineering disciplines.
+This is another lesson in **don't trust your intuition if you have another option**. Intuition and experience can be wrong at times, it can't hurt to spend a couple of minutes doing a quick check before spending weeks performing a task. I adopted this technique from the book *The Pragmatic Programmer* and just applied it to the machine learning domain. I believe it can be applied to many engineering disciplines.

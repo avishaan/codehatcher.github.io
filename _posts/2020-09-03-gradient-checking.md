@@ -1,6 +1,6 @@
 ---
 title: "Numerical Gradient Checking for Backprop" 
-excerpt: "Backprop can be error prone. Numeric methods for calculating the gradient is computational slow but easy to implement"
+excerpt: "Backprop can be error-prone. Numeric methods for calculating the gradient is computational slow but easy to implement"
 categories:
   - machine learning
 tags:

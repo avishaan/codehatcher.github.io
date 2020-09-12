@@ -73,7 +73,7 @@ Aka: selectivity, true negative rate (TNR)
 Aka: False positive rate (FPR)
 
 ### F1 Score
-Hybrid metric that is useful when there are unbalanced classes and the same importance is given to precision and recall.
+A hybrid metric that is useful when there are unbalanced classes and the same importance is given to precision and recall.
 \\[ F_1 = 2 \cdot \frac{PPV \cdot TPR}{PPV + TPR} \\]
 
 ### F𝜷 Score
