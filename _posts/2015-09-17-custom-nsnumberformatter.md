@@ -2,9 +2,9 @@
 title: "Custom NSNumberFormatter" 
 excerpt: "How to create and class a 100% customized NSNumberFormatter in Swift. Useful when frameworks (*cough* 'ios-charts') require a NSNumberFormatter for value formatting."
 categories:
-  - Programming
+  - programming
 tags:
-  - Programming
+  - programming
   - Swift
 toc: true
 toc_sticky: true

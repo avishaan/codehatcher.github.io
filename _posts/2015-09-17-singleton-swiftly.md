@@ -2,11 +2,11 @@
 title: "Singleton Swiftly" 
 excerpt: "Two design patterns which can be used to implement Singletons in Swift."
 categories:
-  - Programming
+  - programming
 tags:
-  - Reference
+  - reference
   - Swift
-  - Programming
+  - programming
   - iOS
 toc: true
 toc_sticky: true

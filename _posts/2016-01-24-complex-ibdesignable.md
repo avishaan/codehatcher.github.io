@@ -2,12 +2,12 @@
 title: "Dealing with Complex @IBDesignable" 
 excerpt: "When your @IBDesignable is either too complex or requires data not available when previewing in the interface builder, here is how you deal with those errors."
 categories:
-  - Programming
+  - programming
 tags:
-  - Programming
+  - programming
   - iOS
   - Xcode
-  - ObjectiveC
+  - Objective-C
 toc: true
 toc_sticky: true
 ---

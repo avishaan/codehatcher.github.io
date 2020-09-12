@@ -2,14 +2,13 @@
 title: "Transliteration of Promises to Callbacks" 
 excerpt: "Promises seem like an amazing way to take advantage of non-blocking io in a very readable way"
 categories:
-  - JS
+  - programming
 tags:
-  - Reference
   - Javascript
   - Bluebird.js
   - Node.js
   - Mongoose.js
-  - Programming
+  - programming
 toc: true
 toc_sticky: true
 ---

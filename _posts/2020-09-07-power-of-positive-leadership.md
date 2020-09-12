@@ -2,10 +2,10 @@
 title: "The Power of Positive Leadership" 
 excerpt: "Positive leaders can transform teams and organizations"
 categories:
-  - Book Reviews
-  - Book Notes
+  - book notes
+  - leadership strategy
 tags:
-  - Leadership
+  - leadership strategy
 toc: true
 toc_sticky: true
 date: 2020-9-7

@@ -2,9 +2,9 @@
 title: "Uber*-bad* Routing Bug" 
 excerpt: "Awful routing makes me wonder if I am being gouged by Uber in cities I am not familiar with."
 categories:
-  - Bugs
+  - product development
 tags:
-  - Bugs
+  - product development
 toc: true
 toc_sticky: true
 ---

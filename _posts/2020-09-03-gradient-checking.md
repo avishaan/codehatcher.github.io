@@ -2,11 +2,11 @@
 title: "Numerical Gradient Checking for Backprop" 
 excerpt: "Backprop can be error prone. Numeric methods for calculating the gradient is computational slow but easy to implement"
 categories:
-  - ML
+  - machine learning
 tags:
-  - ML
-  - Reference
-  - Math
+  - ml
+  - reference
+  - math
 toc: true
 toc_sticky: true
 date: 2020-8-29

@@ -2,11 +2,14 @@
 title: "Pragmatic Programmer" 
 excerpt: "As an engineering team leader, this book gives great advice. Some of it is outdated, but much of the relevant topics are included below"
 categories:
-  - Book Review
+  - book notes
+  - engineering strategy
 tags:
-  - Engineering Leadership
+  - engineering strategy
 toc: true
 toc_sticky: true
+header:
+  teaser: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401432508l/4099.jpg
 ---
 # Intro
 Some of the advice in this book is old and dated while others have been proven timeless. In general, many of the philosophy and approach are timeliness while the tool recommendations and examples are dated. For engineering leaders who have been in the field for a long time, this may be a good thing. If it's been a while since getting your hands dirty, the references to the languages in this book may give a good analogy for what current teams are doing. 

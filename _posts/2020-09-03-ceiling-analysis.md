@@ -2,11 +2,13 @@
 title: "Ceiling Analysis to Evaluate Optimization Potential " 
 excerpt: "Focusing on the module with the most potential gives direction on where to optimize the model pipeline"
 categories:
-  - ML
+  - machine learning
+  - engineering strategy
 tags:
-  - ML
-  - Product Development
-  - Optimization
+  - ml
+  - engineering strategy
+  - optimization
+  - ceiling analysis
 toc: true
 toc_sticky: true
 date: 2020-8-29

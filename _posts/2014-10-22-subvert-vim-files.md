@@ -2,10 +2,9 @@
 title: "Subvert with Vim Across Multiple files" 
 excerpt: "f you aren't with it the following with work with built in vim :substitute"
 categories:
-  - Vim
+  - vim
 tags:
-  - Reference
-  - Vim
+  - vim
 toc: true
 toc_sticky: true
 ---

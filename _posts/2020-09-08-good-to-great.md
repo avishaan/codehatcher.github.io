@@ -2,11 +2,12 @@
 title: "Good to Great" 
 excerpt: "Defines the leadership style of the 90's and what can be learned and used in the 20th century"
 categories:
-  - Book Reviews
-  - Book Notes
+  - book notes
+  - leadership strategy
+  - product strategy
 tags:
-  - Leadership
-  - Startup
+  - leadership strategy
+  - product strategy
 toc: true
 toc_sticky: true
 date: 2020-9-8

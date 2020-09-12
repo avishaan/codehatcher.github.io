@@ -2,11 +2,11 @@
 title: "Mongoose v3 Embedded Object without Explicit Subschema Delcaration" 
 excerpt: "A quick code example of how to embed a subdocument/collection of objects in a Mongoose model without create a whole other explicit subdoc reference"
 categories:
-  - JS
+  - programming
 tags:
-  - Reference
+  - reference
   - Mongoose
-  - Database
+  - databases
 toc: true
 toc_sticky: true
 ---

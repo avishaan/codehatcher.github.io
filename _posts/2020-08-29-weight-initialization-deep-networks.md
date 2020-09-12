@@ -2,10 +2,12 @@
 title: "Weight Initialization in Deep Neural Networks" 
 excerpt: "A set of strategies for weight initialization preventing DNNs from having problems like vanishing or exploding gradients"
 categories:
-  - ML
+  - machine learning
 tags:
-  - ML
-  - Optimization
+  - ml
+  - optimization
+  - neural networks
+  - DNNs
 toc: true
 toc_sticky: true
 date: 2019-04-28

@@ -2,11 +2,11 @@
 title: "Reframing a Lyft Bug as Product Feature" 
 excerpt: "Discussing a bug as a feature in the Lyft app that potentially gets users rides at a lower 'prime time' multiplier."
 categories:
-  - Product
+  - product development
 tags:
-  - Bugs
   - Lyft
-  - Product
+  - product development
+  - opinion
 toc: true
 toc_sticky: true
 ---

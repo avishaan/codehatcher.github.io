@@ -2,11 +2,11 @@
 title: "Linear Algebra in Machine Learning" 
 excerpt: "Linear Algebra reference especially useful when vectorizing Machine Learning operations and understanding intuition for algorithms"
 categories:
-  - ML
+  - machine learning
 tags:
-  - ML
-  - Reference
-  - Math
+  - ml
+  - reference
+  - math
 toc: true
 toc_sticky: true
 ---

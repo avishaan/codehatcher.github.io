@@ -2,12 +2,15 @@
 title: "Zero to One" 
 excerpt: "A review and summary of one of the foundational startup books."
 categories:
-  - Books Reviews
-  - Book Notes
+  - book notes
+  - product strategy
 tags:
-  - Startup
+  - startup strategy
+  - product strategy
 toc: true
 toc_sticky: true
+header:
+  teaser: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414347376l/18050143.jpg
 ---
 # Intro
 I think when I originally read this book in 2014 I was excited to have something from a PayPal founder and Facebook investor. All I had read up to that time was maybe the *The $100 Startup* and, of course, *The Lean Startup*. Actually, I had already heard half of the lessons from my startup friends in San Francisco before I even opened the book.

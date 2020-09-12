@@ -2,10 +2,11 @@
 title: "Choosing an Appropriate ML Algorithm for a Product" 
 excerpt: "Picking the right ML algorithm requires careful consideration of the user, product, team, and business"
 categories:
-  - Product
+  - machine learning
+  - engineering execution
 tags:
-  - ML
-  - Product Development
+  - ml
+  - algorithm options
 toc: true
 toc_sticky: true
 date: 2020-8-29

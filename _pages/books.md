@@ -1,5 +1,5 @@
 ---
-title: "Book Summaries"
+title: "Book Notes"
 layout: single
 entries_layout: list
 classes: wide

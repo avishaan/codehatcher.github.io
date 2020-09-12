@@ -2,10 +2,10 @@
 title: "Vim Mnemonic Devices" 
 excerpt: "An easier way to remember what each vim command does"
 categories:
-  - Vim
+  - vim
 tags:
-  - Reference
-  - Vim
+  - reference
+  - vim
 toc: true
 toc_sticky: true
 date: 2015-12-18

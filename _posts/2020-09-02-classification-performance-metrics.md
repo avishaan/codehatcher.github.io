@@ -2,12 +2,12 @@
 title: "Classification Model Performance Metrics" 
 excerpt: "Using the following metrics gives a more accurate picture of model performance"
 categories:
-  - ML
+  - machine learning
 tags:
-  - ML
-  - Optimization
-  - Reference
-  - Product Development
+  - ml
+  - optimization
+  - reference
+  - engineering execution
 toc: true
 toc_sticky: true
 date: 2020-8-29

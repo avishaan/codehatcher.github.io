@@ -2,9 +2,9 @@
 title: "SwaggerJS via Swagger-Tools for NodeJS" 
 excerpt: "Learning by examples"
 categories:
-  - Programming
+  - programming
 tags:
-  - Programming
+  - programming
   - Node.js
   - Swagger.js
   - DevOps

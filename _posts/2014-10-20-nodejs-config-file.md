@@ -2,9 +2,9 @@
 title: "Node.js Alternate Config File" 
 excerpt: "An alternate config file in node for setting variables based on current env without the overhead of another library with more flexibility than a .json file."
 categories:
-  - JS
+  - programming
 tags:
-  - Reference
+  - programming
   - Node.js
 toc: true
 toc_sticky: true

@@ -2,10 +2,10 @@
 title: "Helping Dyslexics 'Unscramble' Websites" 
 excerpt: "Building a Chrome extension that changes more than just the font of a webpage allowing dyslexic users to have a better experience regardless of page design."
 categories:
-  - Product
+  - product development
 tags:
-  - Product
-  - Chrome Extension
+  - product development
+  - Chrome extension
 toc: true
 toc_sticky: true
 ---

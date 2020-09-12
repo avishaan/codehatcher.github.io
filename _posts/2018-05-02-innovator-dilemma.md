@@ -2,11 +2,9 @@
 title: "The Innovator's Dilemma" 
 excerpt: "Explore why great companies can do everything right and then still lose their market"
 categories:
-  - Book Reviews
-  - Book Notes
+  - book notes
 tags:
-  - Innovation
-  - Product Development
+  - product strategy
 toc: true
 toc_sticky: true
 date: 2018-5-2

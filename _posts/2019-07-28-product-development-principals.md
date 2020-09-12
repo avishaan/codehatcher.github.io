@@ -2,10 +2,9 @@
 title: "Product Engineering Development Values" 
 excerpt: "Listed below are values that are important in leading a successful engineering team when the goal is to create a useful product."
 categories:
-  - Management
+  - engineering execution
 tags:
-  - Product Management
-  - Engineering Management
+  - engineering execution
 toc: true
 toc_sticky: true
 ---

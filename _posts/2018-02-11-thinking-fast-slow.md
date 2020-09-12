@@ -2,10 +2,9 @@
 title: "Thinking, Fast and Slow" 
 excerpt: "An explanation of the two systems that drive the mind"
 categories:
-  - Book Reviews
-  - Book Notes
+  - book notes
 tags:
-  - Human Behaviour
+  - human behaviour
 toc: true
 toc_sticky: true
 date: 2018-2-11

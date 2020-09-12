@@ -2,10 +2,10 @@
 title: "Method Chaining in JS Style Opinion" 
 excerpt: "A more definitive answer to the indent style of chaining multiple methods in Javascript for easier readability."
 categories:
-  - JS
+  - programming
 tags:
-  - Reference
-  - JS
+  - Javascript
+  - opinion
 toc: true
 toc_sticky: true
 ---

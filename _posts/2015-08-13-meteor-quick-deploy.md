@@ -2,13 +2,11 @@
 title: "Faster Deploy with MeteorJS" 
 excerpt: "Quickly deploy MeteorJS to your own provider or services like Digital Ocean."
 categories:
-  - JS
+  - DevOps
 tags:
-  - Reference
   - Javascript
-  - Programming
+  - programming
   - Meteor.js
-  - ECMAScript2015
   - DevOps
 toc: true
 toc_sticky: true

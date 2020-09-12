@@ -2,10 +2,11 @@
 title: "Product Considerations when Incorporating Machine Learning" 
 excerpt: "As will any software engineering field, it's important to consider technical tradeoffs so that we can maximize customer value."
 categories:
-  - Product
+  - machine learning
+  - product strategy
 tags:
-  - ML
-  - Product
+  - ml
+  - product strategy
 toc: true
 toc_sticky: true
 date: 2020-8-29

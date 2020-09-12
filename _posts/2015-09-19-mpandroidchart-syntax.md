@@ -2,9 +2,10 @@
 title: "MPAndroidChart to ios-charts syntax conversion" 
 excerpt: "It turns out that there is enough difference in the properties each framework uses that it can be frustrating to learn how to use the ios-charts library. Here is a quick reference."
 categories:
-  - Programming
+  - programming
 tags:
   - Java
+  - programming
   - Swift
   - iOS
   - Android

@@ -2,12 +2,12 @@
 title: "Visual Explanation of Neural Networks via CAM" 
 excerpt: "Understanding the spatially important features of Deep and Convolutional Neural Networks using Class Activation Mapping"
 categories:
-  - ML
+  - machine learning
 tags:
-  - ML
-  - Neural Network
-  - Optimization
-  - Class Activation Mapping
+  - ml
+  - neural networks
+  - optimization
+  - class activation mapping
 toc: true
 toc_sticky: true
 date: 2020-8-29

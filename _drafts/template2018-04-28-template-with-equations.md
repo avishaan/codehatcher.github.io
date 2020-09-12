@@ -9,7 +9,7 @@ tags:
   - Math
 toc: true
 toc_sticky: true
-date: 2020-8-29
+date: 9999-8-29
 ---
 <script>
 MathJax = {

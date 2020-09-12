@@ -2,10 +2,11 @@
 title: "Increase Validation Accuracy in Cases of High Variance" 
 excerpt: "How can we make sure the representation learned by our model will be applicable to data the model has never seen before. Overfitting can reduce the validation accuracy of our data."
 categories:
-  - ML
+  - machine learning
 tags:
-  - Machine Learning
-  - Overfitting
+  - ml
+  - overfitting
+  - optimization
 toc: true
 toc_sticky: true
 date: 2020-8-29

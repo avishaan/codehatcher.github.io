@@ -2,10 +2,11 @@
 title: "Do Biomedical Engineers have an Advantage in Machine Learning?" 
 excerpt: "Biomedical engineers go through a multidisciplinary training that might make them a good major to transition into machine learning and Artificial Intelligence"
 categories:
-  - ML
-tags:
-  - biomedical engineering
   - machine learning
+tags:
+  - ml
+  - biomedical engineering
+  - opinion
 toc: true
 toc_sticky: true
 date: 2020-8-29

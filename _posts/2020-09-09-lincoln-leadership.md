@@ -3,8 +3,9 @@ title: "Lincoln on Leadership"
 excerpt: "An examination of Lincoln's leadership abilities and how they can be applied to today."
 categories:
   - book notes
+  - leadership strategy
 tags:
-  - leadership
+  - leadership strategy
 toc: true
 toc_sticky: true
 date: 2020-9-9

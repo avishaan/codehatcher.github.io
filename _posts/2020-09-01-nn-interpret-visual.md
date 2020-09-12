@@ -2,11 +2,12 @@
 title: "Neural Network Interpretability Visually" 
 excerpt: "Understanding the activation of a network with the help of semantic dictionaries and non-neg matrix factorization to increase network performance."
 categories:
-  - ML
+  - machine learning
 tags:
-  - ML
-  - Optimization
-  - Semantic Dictionary
+  - ml
+  - optimization
+  - semantic dictionary
+  - neural networks
 toc: true
 toc_sticky: true
 date: 2020-8-29

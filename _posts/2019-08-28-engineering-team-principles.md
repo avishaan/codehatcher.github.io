@@ -2,9 +2,9 @@
 title: "Engineering Team Principles" 
 excerpt: "The rules that should govern the actions of an engineering team"
 categories:
-  - Management
+  - engineering strategy
 tags:
-  - Engineering Management
+  - engineering strategy
 toc: true
 toc_sticky: true
 ---

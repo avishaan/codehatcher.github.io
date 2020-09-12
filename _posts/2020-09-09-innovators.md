@@ -3,9 +3,11 @@ title: "The Innovators"
 excerpt: "Most innovations in the digital age were done collaboratively. This is the story of why their ability to work as a team made them so creative and successful"
 categories:
   - book notes
+  - product strategy
+  - leadership strategy
 tags:
-  - startup
-  - leadership
+  - product strategy
+  - leadership strategy
 toc: true
 toc_sticky: true
 date: 2020-9-9

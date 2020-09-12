@@ -3,11 +3,10 @@ title: "ImageDataNet: Generator for Training and Validation"
 excerpt_separator: "<!--more-->"
 classes: wide
 categories:
-  - ML
-  - Notes
+  - machine learning
+  - engineering execution
 tags:
-  - ML
-  - Notes
+  - ml
   - Tensorflow
   - Keras
   - ImageNet

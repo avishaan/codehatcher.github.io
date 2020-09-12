@@ -2,10 +2,10 @@
 title: "Leaders Eat Last" 
 excerpt: "Simon explores what it means to become a truly admired leader"
 categories:
-  - Book Reviews
-  - Book Notes
+  - book notes
+  - leadership strategy
 tags:
-  - Leadership
+  - leadership strategy
 toc: true
 toc_sticky: true
 date: 2020-9-7

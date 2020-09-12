@@ -3,8 +3,9 @@ title: "Washington on Leadership"
 excerpt: "Washington 'presented' as the first founder and CEO of two startups; the army and the presidency."
 categories:
   - book notes
+  - leadership strategy
 tags:
-  - leadership
+  - leadership strategy
 toc: true
 toc_sticky: true
 date: 2020-9-10

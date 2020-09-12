@@ -2,12 +2,12 @@
 title: "Reducing Bias to Increase Test Set Accuracy" 
 excerpt: "Gradient Class Activation Mapping provides a method that can be used to visually explore possible biases in the CNNs and DNNs"
 categories:
-  - ML
+  - machine learning
 tags:
-  - ML
-  - Neural Network
-  - Optimization
-  - Class Activation Mapping
+  - ml
+  - neural network
+  - optimization
+  - class activation mapping
 toc: true
 toc_sticky: true
 date: 2020-8-29

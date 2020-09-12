@@ -2,10 +2,12 @@
 title: "Optimizing Models using Saliency Maps and CMVs" 
 excerpt: "Extracting visual insight from network layers allows us to optimize and investigate our models"
 categories:
-  - ML
+  - machine learning
 tags:
-  - ML
-  - Optimization
+  - ml
+  - optimization
+  - saliency maps
+  - class model visualization
 toc: true
 toc_sticky: true
 date: 2020-8-29

@@ -2,12 +2,14 @@
 title: "MongoDB SSH access on remote Meteor deployment" 
 excerpt: "Access the MongoDB instance on your MUP (Meteor UP) deployment using a GUI explorer"
 categories:
-  - DevOps
+  - programming
 tags:
   - Meteor.js
   - Javascript
   - MongoDB
+  - databases
   - DevOps
+  - programming
 toc: true
 toc_sticky: true
 ---

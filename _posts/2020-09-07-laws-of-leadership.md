@@ -2,12 +2,14 @@
 title: "The 21 Irrefutable Laws of Leadership" 
 excerpt: "A review and summary of one of the foundational startup books."
 categories:
-  - Books
-  - book summary
+  - book notes
+  - leadership strategy
 tags:
-  - startup
+  - leadership strategy
 toc: true
 toc_sticky: true
+header:
+  teaser: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440064752l/815716._SY475_.jpg
 ---
 # Intro
 Overall, a decent book. This is one where it is worth reviewing the laws before deciding whether or not to read it. If the laws are applicable to your team's current situation, this book becomes a great reference. The cheesy-ness works well to give subtle clues that leadership is still more opaque than the "black box" which is machine learning. The author feels that although technology changes, the principals of leadership stay the same. As always, I don't agree with or use everything I read, but I will still try and summarize it here.

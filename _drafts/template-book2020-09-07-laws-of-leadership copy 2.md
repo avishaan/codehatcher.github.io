@@ -11,7 +11,7 @@ tags:
   - Startup
 toc: true
 toc_sticky: true
-date: 2040-9-10
+date: 9999-9-10
 header:
   teaser: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442849037l/2564808._SY475_.jpg
 ---

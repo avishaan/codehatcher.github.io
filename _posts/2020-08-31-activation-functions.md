@@ -2,11 +2,11 @@
 title: "Activation Functions for CNNs, RNNs, DNNs" 
 excerpt: "Knowing which activation functions are available, and how it's changed over the years, gives us choices for optimization and inspiration for new functions"
 categories:
-  - ML
+  - machine learning
 tags:
-  - ML
-  - Math
-  - Optimization
+  - ml
+  - math
+  - optimization
 toc: true
 toc_sticky: true
 date: 2020-8-29

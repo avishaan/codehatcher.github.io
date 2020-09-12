@@ -2,11 +2,11 @@
 title: "Comparing Mongoose Object Ids" 
 excerpt: "Forget about finding a deeply nested id property that you have to call the .toString() method on in order to compare."
 categories:
-  - JS
+  - programming
 tags:
-  - Reference
-  - Mongoose
-  - Database
+  - reference
+  - Mongoose.js
+  - databases
 toc: true
 toc_sticky: true
 ---

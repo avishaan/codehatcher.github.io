@@ -2,9 +2,9 @@
 title: "Efficient Development and Delivery by the Engineering Team" 
 excerpt: "Process of developing and delivering backlog stories as a cohesive and efficient engineering team"
 categories:
-  - Management
+  - engineering execution
 tags:
-  - Engineering Management
+  - engineering execution
 toc: true
 toc_sticky: true
 ---

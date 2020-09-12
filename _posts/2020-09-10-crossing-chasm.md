@@ -3,8 +3,9 @@ title: "Crossing the Chasm"
 excerpt: "Marketing and selling high-tech products to mainstream customers."
 categories:
   - book notes
+  - product strategy
 tags:
-  - product
+  - product strategy
 toc: true
 toc_sticky: true
 date: 2020-9-10

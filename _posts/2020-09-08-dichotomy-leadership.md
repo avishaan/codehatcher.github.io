@@ -2,10 +2,10 @@
 title: "The Dichotomy of Leadership" 
 excerpt: "An approach to help leaders recognize and attain leadership balance required for teams"
 categories:
-  - Book Reviews
-  - Book Notes
+  - book notes
+  - leadership strategy
 tags:
-  - Leadership
+  - leadership strategy
 toc: true
 toc_sticky: true
 date: 2020-9-8

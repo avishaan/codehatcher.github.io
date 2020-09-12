@@ -2,10 +2,10 @@
 title: "The Five Dysfunctions of a Team" 
 excerpt: "A quick book review from the perspective of the management of a engineering team."
 categories:
-  - Book Reviews
+  - book notes
 tags:
-  - Book Review
-  - Engineering Leadership
+  - leadership strategy
+  - engineering strategy
 toc: true
 toc_sticky: true
 header:

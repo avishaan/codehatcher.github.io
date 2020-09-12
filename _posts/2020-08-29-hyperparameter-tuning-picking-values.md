@@ -2,10 +2,11 @@
 title: "Hyperparameter Range of Value" 
 excerpt: "Understanding how to iterate through the values of the hyperparameters when tuning a Machine Learning algorithm can make a difference when it comes quickly training a high accuracy model"
 categories:
-  - ML
+  - machine learning
 tags:
-  - ML
-  - Hyperparameters
+  - ml
+  - hyperparameters
+  - engineering execution
 toc: true
 toc_sticky: true
 date: 2019-05-28

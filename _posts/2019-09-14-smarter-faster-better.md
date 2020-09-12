@@ -2,11 +2,10 @@
 title: "Smarter Faster Better" 
 excerpt: "Focusing on how you think is more important in productivity than what you think"
 categories:
-  - Book Reviews
-  - Book Notes
+  - book notes
 tags:
-  - Leadership
-  - Innovation
+  - product strategy
+  - leadership strategy
 toc: true
 toc_sticky: true
 date: 2019-9-14

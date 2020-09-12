@@ -2,9 +2,9 @@
 title: "Learning Programming Promises via a Story" 
 excerpt: "Learn the basic idea of promises in Javascript by listening to this story. The code examples may be JS but the story is language agnostic"
 categories:
-  - JS
+  - programming
 tags:
-  - Reference
+  - reference
   - When.js
   - Javascript
 toc: true

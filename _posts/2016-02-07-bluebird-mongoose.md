@@ -2,12 +2,12 @@
 title: "Bluebird Promises with Mongoose for MongoDB" 
 excerpt: "Quick examples of using bluebird with mongoose in node. I just want to show you a couple common use cases to help you recognize how to use promises."
 categories:
-  - Programming
+  - programming
 tags:
-  - Programming
+  - programming
   - Mongoose.js
   - MongoDB
-  - Database
+  - databases
   - Bluebird.js
   - Javascript
 toc: true

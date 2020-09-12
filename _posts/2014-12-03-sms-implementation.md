@@ -2,9 +2,11 @@
 title: "SMS Implementation Examples in iOS8" 
 excerpt: "How various iOS apps implement SMS/Text based sharing. We consider the pros and cons of each."
 categories:
-  - Product
+  - product development
 tags:
-  - Product
+  - product development
+  - iOS
+  - SMS
 toc: true
 toc_sticky: true
 ---

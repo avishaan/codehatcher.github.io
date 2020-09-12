@@ -2,11 +2,11 @@
 title: "Use 'type' as a Property Name in a Mongoose Doc" 
 excerpt: "The syntax is a little different since 'type' already has a meaning in a Mongoose schema."
 categories:
-  - JS
+  - programming
 tags:
   - Reference
   - Mongoose
-  - Database
+  - databases
 toc: true
 toc_sticky: true
 ---

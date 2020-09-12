@@ -2,9 +2,9 @@
 title: "Multi Valued Single Jasmine Automated Test Suite" 
 excerpt: "An alternative to npm libraries like 'jasmine-where' and full blown data provider pattern. Anything that gives us a boost for our TDD & CI/CD pipeline is worth considering"
 categories:
-  - JS
+  - engineering execution
 tags:
-  - Reference
+  - engineering execution
   - TDD
   - CI/CD
 toc: true

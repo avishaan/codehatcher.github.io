@@ -2,9 +2,9 @@
 title: "Product Management Story Creation" 
 excerpt: "Process of how to create a high value prioritized backlog of understandable stories "
 categories:
-  - Management
+  - engineering execution
 tags:
-  - Product Management
+  - engineering execution
 toc: true
 toc_sticky: true
 ---

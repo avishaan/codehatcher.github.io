@@ -2,13 +2,11 @@
 title: "Attributed Strings in Xcode with Custom Font" 
 excerpt: "Attributed strings build in the storyboard editor which use a custom font does not render correctly. Here are the steps to get around it"
 categories:
-  - Programming
+  - programming
 tags:
-  - Reference
-  - Programming
+  - programming
   - Xcode
   - Objective-C
-  - Bug
 toc: true
 toc_sticky: true
 ---

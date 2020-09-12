@@ -2,10 +2,9 @@
 title: "Swagger 2.0 Spec File Upload Method" 
 excerpt: "A little information on how to edit your swagger.json document (v2) so that you can accept file uploads in NodeJS. Includes a workaround for a current bug."
 categories:
-  - JS
+  - programming
 tags:
-  - Bug
-  - Programming
+  - programming
   - Swagger.js
 toc: true
 toc_sticky: true

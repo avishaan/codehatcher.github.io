@@ -2,10 +2,12 @@
 title: "Hyperparameter Tuning for Model Optimization" 
 excerpt: "Knowing what hyperparameters are available for tuning is an important part of quickly and accurate optimization"
 categories:
-  - ML
+  - machine learning
 tags:
-  - ML
-  - Hyperparameters
+  - ml
+  - hyperparameters
+  - optimization
+  - math
 toc: true
 toc_sticky: true
 date: 2020-03-28

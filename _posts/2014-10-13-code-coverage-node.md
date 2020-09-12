@@ -2,10 +2,9 @@
 title: "Continuous Integration with Code Coverage in Node.js" 
 excerpt: "Continuous integration and test driven development are important strategies for any engineering team that wants to be efficient."
 categories:
-  - JS
+  - engineering execution
 tags:
-  - Reference
-  - Node
+  - Node.js
   - CI/CD
   - TDD
 toc: true

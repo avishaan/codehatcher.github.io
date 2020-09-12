@@ -2,10 +2,10 @@
 title: "Faster Logical UIScrollView in Swift" 
 excerpt: "UIScrollView is something that can be very confusing because it uses constraints in a way that they aren't normally used. Because of this there is so much confusion."
 categories:
-  - Programming
+  - programming
 tags:
   - Swift
-  - Programming
+  - programming
 toc: true
 toc_sticky: true
 ---

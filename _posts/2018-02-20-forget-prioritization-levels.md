@@ -2,9 +2,9 @@
 title: "Backlog Story Creation and Prioritization" 
 excerpt: "Discussing importance in terms of other features vs in terms of an arbitrary scale keeps focus on the criterion used when creating the feature vs the arbitrary levels of importance"
 categories:
-  - Management
+  - product strategy
 tags:
-  - Product Management
+  - product strategy
 toc: true
 toc_sticky: true
 ---

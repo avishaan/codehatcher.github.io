@@ -2,13 +2,14 @@
 title: "Mobile App PDF generation from HTML" 
 excerpt: "Client side generation of PDFs using jsPDF, HTML, DataURIs, and Cordova on iOS8+ and Android in MeteorJS"
 categories:
-  - Programming
+  - programming
 tags:
   - Meteor.js
   - Javascript
   - iOS
   - jsPDF
   - Android
+  - programing
 toc: true
 toc_sticky: true
 ---
