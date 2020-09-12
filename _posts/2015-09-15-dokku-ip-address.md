@@ -16,7 +16,7 @@ Dokku isn't clear how to host a server when you don't have a domain you want to 
 
 ### Why was this so hard to figure out?
 1. When I asked how to do it on Github, I didn't get an answer https://github.com/progrium/dokku/issues/1123#issuecomment-140610139
-2. When I asked how to "keep a consistent port when not using vhost" in in their IRC channel #dokku I got the response "put a vhost on it". Not helpful...
+2. When I asked how to "keep a consistent port when not using vhost" in their IRC channel #dokku I got the response "put a vhost on it". Not helpful...
 3. When you don't config their vhost, nginx doesn't run. That means I spent about 1 hour configuring nginx.conf not realizing it wasn't even enabled.
 4. Nginx is only enabled when NO_VHOST is set correct, VHOST and HOSTNAME files are set with the domain. Items mentioned in the documentation here http://progrium.viewdocs.io/dokku/nginx/ under "container network interface binding".
 5. The docs don't make mention of this possible configuration. I guess everyone always has a domain they want to use or doesn't care when the external port changes.

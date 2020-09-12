@@ -16,7 +16,7 @@ date: 2019-04-28
 <script async src="https://unpkg.com/mermaid@8.6.4/dist/mermaid.min.js"></script>
 
 ## Motivation
-Training neural networks, especially in very deep DNN's, can be difficult if the weights aren't initialized correctly and cause issues such as vanishing (slope becomes zero) or exploding (slope becomes huge) gradients.
+Training neural networks, especially in very deep DNNs, can be difficult if the weights aren't initialized correctly and cause issues such as vanishing (slope becomes zero) or exploding (slope becomes huge) gradients.
 
 ### Intuition
 Imagine a DNN where the # of layers \\( l \in [50...200+] \\) becomes very large. This means that our hypothesis will be based on many preceding weights \\() w^{[l]} \\) of those layers and will be conceptually similar to:

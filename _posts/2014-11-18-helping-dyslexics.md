@@ -30,7 +30,7 @@ I found all sorts of information on how to design a website to be easier to read
 
 ### Unscrambled is better than other Chrome extensions
 1. Unscrambled requires no configuration. Other extensions require a configuration step to pick things like font and style. Some even require some CSS/HTML knowledge.
-2. Unscrambled is single click activation. Other extensions require you to go into a menu popup in order to enable/disable the app. This makes it hard to turn the extension off to appreciate the page design.
+2. Unscrambled is single-click activation. Other extensions require you to go into a menu popup to enable/disable the app. This makes it hard to turn the extension off to appreciate the page design.
 3. Unscrambled does more than change the font. Other extensions only change the font. Unscrambled also changes the line height, line spacing, and contrast based on research cited below.
 4. Unscrambled is specific to your current tab, not browser wide. Other extensions change the font across all the tabs in the entire browser. We only enable it for individual tabs so you can only enable it for the tabs you need.
 

@@ -1,6 +1,6 @@
 ---
-title: "Mongoose v3 Embedded Object without Explicit Subschema Delcaration" 
-excerpt: "A quick code example of how to embed a subdocument/collection of objects in a Mongoose model without create a whole other explicit subdoc reference"
+title: "Mongoose v3 Embedded Object without Explicit Subschema Declaration" 
+excerpt: "A quick code example of how to embed a subdocument/collection of objects in a Mongoose model without creating a whole other explicit subdoc reference"
 categories:
   - programming
 tags:
