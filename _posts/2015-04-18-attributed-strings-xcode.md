@@ -15,7 +15,7 @@ When setting attributed text in Xcode storyboard editor you will find that any c
 ### Problem
 ![Silvrback blog image](/assets/posts/migrated-codehatcher-blog/simulatorvsxcode_large.jpg)
 
-Online people talk about making sure you add your custom fonts to the plist or to make sure you aren't picking a font style that the font doesn't actually support. These may be the cause of your problem but another fix is as follows.
+Online people talk about making sure you add your custom fonts to the plist or to make sure you aren't picking a font style that the font doesn't support. These may be the cause of your problem but another fix is as follows.
 
 ```swift
 

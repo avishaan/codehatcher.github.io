@@ -15,7 +15,7 @@ toc_sticky: true
 ---
 We are going to take common Mongoose use cases for finding and creating documents and going to use Bluebird (or more generally, any promise library that follows [Promises/A+](https://promisesaplus.com/implementations)) to migrate from the typical callback method to promises.
 
-There are many sites showing simple examples of promises but sometimes you just: 
+Many sites are showing simple examples of promises but sometimes you just: 
 
 * need an example specific to what you are doing to understand it
 * need to just get going in it without fully understanding it

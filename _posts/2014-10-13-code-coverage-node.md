@@ -1,6 +1,6 @@
 ---
 title: "Continuous Integration with Code Coverage in Node.js" 
-excerpt: "Continuous integration and test driven development are important strategies for any engineering team that wants to be efficient."
+excerpt: "Continuous integration and test-driven development are important strategies for any engineering team that wants to be efficient."
 categories:
   - engineering execution
 tags:
@@ -12,12 +12,12 @@ toc_sticky: true
 ---
 ## Intro
 
-It can be difficult to get an engineering team in sync and aligned for CI, code coverage, and TDD. Without a leader who has experienced the pitfalls of not implementing those methodologies the benefits to a team may not be clear.
+It can be difficult to get an engineering team in sync and aligned for CI, code coverage, and TDD. Without a leader who has experienced the pitfalls of not implementing those methodologies, the benefits to a team may not be clear.
 
 ### Example Implementation
 
-I am going to talk about one very specific item in this article since it barely exists anywhere on the internet. How to run **both** your integration tests and unit tests in such a way that you can actually see the whole code coverage.
-I am **not** going to tell you to download another plugin, I want you to see how this will actually work.
+I am going to talk about one very specific item in this article since it barely exists anywhere on the internet. How to run **both** your integration tests and unit tests in such a way that you can see the whole code coverage.
+I am **not** going to tell you to download another plugin, I want you to see how this will work.
 I am **not** going to tell you how to install jasmine-node, nor how to make jasmine assertions, nor how to install mocha, nor convince you that you need unit tests, nor convince you that you need grunt, nor anything else.
 
 #### Prerequisites

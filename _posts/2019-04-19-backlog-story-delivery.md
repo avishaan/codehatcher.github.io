@@ -9,7 +9,7 @@ toc: true
 toc_sticky: true
 ---
 ## Introduction
-The below backlog story development and delivery process outlines that the head of engineering or even CTO can use to have alignment with product and business. The process optimizes for an efficient and bugless(ish) delivery.
+The below backlog story development and delivery process outlines how the head of engineering or even CTO can use it to create alignment with product and business. The process optimizes for an efficient and bugless(ish) delivery.
 
 Although written specifically for Tracker, I've personally used similar techniques with everything from customized instances of Redmine, to lightweight GH issues, to heavyweight JIRA.
 
@@ -28,7 +28,7 @@ Start only one story at a time; there should not be multiple started stories by 
 2. If you realize that something is missing from the story (such as a design):
 
 If something is missing from the story:
-1. stop story
+1. stop the story
 2. tag with appropriate “needs PM” tag
 3. start another story 
 4. let the PM decide the proper course of action
@@ -38,7 +38,7 @@ Add tasks into the story under the tasks section as the first step after startin
 ### 6. Connect Branch
 A new branch in the codebase needs to be created following the Tracker format here: For example, creating a branch with the name 123123-super-cool-feature will attach it to the story with id 123123.
 ### 7. Test Cases
-First commit onto branch should be applicable test cases as specified in the story.
+A first commit onto branch should be applicable test cases as specified in the story.
 ### 8. Finish Story
 Stories are only marked as finished once the code has been:
 

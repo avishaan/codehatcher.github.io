@@ -10,7 +10,7 @@ toc: true
 toc_sticky: true
 ---
 ### Motivation
-I rarely post about stuff I build, honestly I think it's because I've been building so much. I made an exception for the below because I think it's a good use case for others. This was a quick weekend project that had a big difference and I hope to inspire others down that path.
+I rarely post about stuff I build. Honestly, I think it's because I've been building so much. I made an exception for the below because I think it's a good use case for others. This was a quick weekend project that had a big difference and I hope to inspire others down that path.
 
 ### Update: 1-28-2015
 I'm ecstatic that there have been over 2,000 downloads! A few people even found me and messaged me on Facebook to tell me how much it helped them. I didn't realize such a quick project could make such a big difference
@@ -19,12 +19,12 @@ I'm ecstatic that there have been over 2,000 downloads! A few people even found 
 Someone made another version based partially on the below research. I'm happy to say that their version is the one you should be using moving forward. I had no idea how much work it can be to maintain and respond to everyone so I'm happy someone is taking the reigns.
 
 ### TLDR
-Unscrambled is a chrome extension that addresses various website design problems that make it difficult for dyslexics to read text. It addresses more than other chrome extensions, is easier to use than most Chrome extensions, and requires no configuration unlike other extensions. Get it at the Google Chrome extension site [here](http://goo.gl/uJ5Gt4) http://goo.gl/uJ5Gt4
+Unscrambled is a chrome extension that addresses various website design problems that make it difficult for dyslexics to read the text. It addresses more than other chrome extensions, is easier to use than most Chrome extensions, and requires no configuration unlike other extensions. Get it at the Google Chrome extension site [here](http://goo.gl/uJ5Gt4) http://goo.gl/uJ5Gt4
 
 ![ScreenshotAnnotated](/assets/posts/migrated-codehatcher-blog/Screenshot 2_large.png)
 
 ### Inspiration
-I saw a video about a font that was made to help dyslexic people read easier and was inspired to do my own take on it. I decided I would make a chrome extension, called Unscrambled, that would render the page using a font that makes it easier for dyslexic people to read as well as do some additional research on what other things that could be done to a website in order to make it easier.
+I saw a video about a font that was made to help dyslexic people read easier and was inspired to do my take on it. I decided I would make a chrome extension, called Unscrambled, that would render the page using a font that makes it easier for dyslexic people to read as well as do some additional research on what other changes can be done to a website to make it easier.
 
 I found all sorts of information on how to design a website to be easier to read and decided to incorporate those ideas into my Chrome extension. This means if the author of the website didn't follow (most do not) the best practices that would allow a dyslexic user to read a website easier, a user can still get a good user experience without having to depend on the website author.
 

@@ -12,9 +12,9 @@ date: 2015-12-18
 ---
 
 #### Introduction
-A pneumonic device helps us remember something seemingly abstract by giving it a familiar context. For instance in order to remember the planets in order from closest to furthest from the sun you could use the handy "My Very Educated Mother Just Served Us Nectarines".
+A pneumonic device helps us remember something seemingly abstract by giving it a familiar context. For instance, to remember the planets in order from closest to furthest from the sun you could use the handy "My Very Educated Mother Just Served Us Nectarines".
 
-When I first learned Vim I just spent a couple hours to remember them, but that prevented me from utilizing the slightly more abstract and less often used commands. Realizing that 'i' means 'insert mode' I started to look for a other keys based on commands. Then I realized that it doesn't really matter how logical it is, if you remember it then that is good enough. It reminds a little bit of the book, **Moonwalking with Einstein**
+When I first learned Vim I just spent a couple of hours to remember them, but that prevented me from utilizing the slightly more abstract and less often used commands. Realizing that 'i' means 'insert mode' I started to look for other keys based on commands. Then I realized that it doesn't matter how logical it is, if you remember it then that is good enough. It reminds a little bit of the book, **Moonwalking with Einstein**
 
 **NOTE**: This won't teach you Vim at all, just how to remember some of the keys.
 

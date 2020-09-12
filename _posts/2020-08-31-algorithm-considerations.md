@@ -32,7 +32,7 @@ If you don't have *enough* data, there are a few things you can try, not all of 
 - use transfer learning to train the last layers of an existing model
 
 ### Number of Features
-The number of examples in the training set is often in our mind, but we forget to consider the ratio of features:examples. If the training data has a large feature to example ratio, we need to choose a high bias low variance algorithm such as: linear regression, naive bayes, *linear* SVM. If we have a low feature to example ratio, we can use low bias high variance algorithms such as: KNN, decision trees, *kernel* SVM for example.
+The number of examples in the training set is often in our mind, but we forget to consider the ratio of features/examples. If the training data has a large feature to example ratio, we need to choose a high bias low variance algorithm such as: linear regression, naive bayes, *linear* SVM. If we have a low feature to example ratio, we can use low bias high variance algorithms such as: KNN, decision trees, *kernel* SVM for example.
 
 ## Accuracy Metrics
 Getting the highest level of accuracy is not always necessary, or feasible. Knowing how people will use the product will give insight into how the requirements of this should be structured. Are they looking for predictions or perhaps just for screening. With user research, you'll have an idea of what metrics you will need to achieve to get the desired user experience. Some metrics to consider:

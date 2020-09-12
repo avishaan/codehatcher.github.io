@@ -11,7 +11,7 @@ tags:
 toc: true
 toc_sticky: true
 ---
-When it comes to aligning development with devops with QA, I don't think anything comes close to SwaggerJS right now. In San Francisco, I was able to meet some of the founders to talk to them more about it. I didn't realize how big they had become but I'm not surprised. I talked about it a little in a post from 2014.
+When it comes to aligning development with DevOps with QA, I don't think anything comes close to SwaggerJS right now. In San Francisco, I was able to meet some of the founders to talk to them more about it. I didn't realize how big they had become but I'm not surprised. I talked about it a little in a post from 2014.
 
 ## Response with sub-properties using references
 
@@ -54,13 +54,13 @@ When it comes to aligning development with devops with QA, I don't think anythin
         },
         "text": {
           "type": "string",
-          "example": "This is a very relavent post to me",
+          "example": "This is a very relevant post to me",
           "description": "Text body of the post a user may create"
         },
-        "logitude": {
+        "longitude": {
           "type": "string",
           "example": "100.000",
-          "description": "Logitude of the GPS coordinate"
+          "description": "Longitude of the GPS coordinate"
         },
         "latitude": {
           "type": "string",
@@ -85,13 +85,13 @@ When it comes to aligning development with devops with QA, I don't think anythin
       "properties": {
         "text": {
           "type": "string",
-          "example": "This is a very relavent post to me",
+          "example": "This is a very relevant post to me",
           "description": "Text body of the post a user may create"
         },
         "longitude": {
           "type": "string",
           "example": "100.000",
-          "description": "Logitude of the GPS coordinate"
+          "description": "Longitude of the GPS coordinate"
         },
         "latitude": {
           "type": "string",

@@ -20,7 +20,7 @@ When the requirement calls for understanding the relationship between the input 
 
 #### Classification
 ##### Single Category
-Single category will still be two-class where the answer might be yes/no, dog/muffin, or positive/negative.
+The single category will still be two-class where the answer might be yes/no, dog/muffin, or positive/negative.
 - SVM: large features, linear
 - locally deep SVM: large features
 - perceptron: fast train
@@ -38,7 +38,7 @@ Multi-class/category allows something similar to identifying what type of dog fr
 - one-v-all: based on two-class classifier
 
 #### Value Prediction
-Forecast the future by understanding the contribution of input variables to it's output.
+Forecast the future by understanding the contribution of input variables to its output.
 ##### Regression
 - ordinal: rank ordered categories
 - Poisson

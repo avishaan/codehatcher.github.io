@@ -86,6 +86,6 @@ function(cb){
 },
 ```
 
-Anyone that is familiar with the callback hell and nested functions that can be Javascript, the benefit of using method #3 becomes clear. Scanning that code in #2 some brains may need an extra second to process which could cause something to be looked over.
+Anyone familiar with the callback hell and nested functions that can be Javascript, the benefit of using method #3 becomes clear. Scanning that code in #2 some brains may need an extra second to process which could cause something to be looked over.
 
 So if you already don't have an opinion on which style to use. Definitely consider #3

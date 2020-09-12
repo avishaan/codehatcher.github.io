@@ -11,8 +11,8 @@ toc: true
 toc_sticky: true
 ---
 ### What is this about?
-Any language/concept/idea is easier to learn when you come up with a relatable real life situation or metaphor. Programming is no different. I'll use the next few minutes to build up a simple promise example that you can run and play with while telling a memorable and relatable story.
-My purpose here is to get you familiar enough with a concept via a memorable story while also giving you a runnable example that you can tinker with. This will help you understand the practical aspect of the subject. I am not talking about corner cases, details, why you should use it, performance issues nor the nitty gritty. Once you know the concept and the basics you will be able to do research in order to learn the details on your own.
+Any language/concept/idea is easier to learn when you come up with a relatable real-life situation or metaphor. Programming is no different. I'll use the next few minutes to build up a simple promise example that you can run and play with while telling a memorable and relatable story.
+My purpose here is to get you familiar enough with a concept via a memorable story while also giving you a runnable example that you can tinker with. This will help you understand the practical aspect of the subject. I am not talking about corner cases, details, why you should use it, performance issues nor the nitty-gritty. Once you know the concept and the basics you will be able to research in order to learn the details on your own.
 I assume you understand the concepts of synchronous code, asynchronous code, and callbacks. I also assume you have decided you want to learn promises but are having trouble getting started because you are not able to conceptualize it in such a way where you can write code describing a story.
 Enough talk, let's jump in. (if you want to run some of the code below you may need to install [when.js](https://github.com/cujojs/when) from npm via `npm install when`)
 
@@ -99,10 +99,10 @@ console.log("You search for flowers");
 
 ```
 You can see how it reacts in the case that Mark can't find the money by setting 
-`var found = false;` In that case you can see you will reject the promise and then run onRejected.
+`var found = false;` In that case, you can see you will reject the promise and then run onRejected.
 
 ### Next Steps
-I hope you have a better idea of how to mentally conceptualize promises. You can do other awesome things like resolving promises with another promise. For instance using the same story example, imagine if Mark couldn't find the money and instead asked Bob to give you the money directly. That's resolving a promise with a promise but I think story time is over for now.
+I hope you have a better idea of how to mentally conceptualize promises. You can do other awesome things like resolving promises with another promise. For instance, using the same story example, imagine if Mark couldn't find the money and instead asked Bob to give you the money directly. That's resolving a promise with a promise but I think storytime is over for now.
 
 [Check out the actual spec.](https://promisesaplus.com/)
 

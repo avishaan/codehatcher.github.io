@@ -11,9 +11,9 @@ tags:
 toc: true
 toc_sticky: true
 ---
-In situation where our `@IBDesignable` is too complex to complete in under 200ms we need a way to still get it's benefits without the complex errors that it throws. You may argue that "well my code still builds just fine". Sure, but now you have a bunch of errors and when you actually get one, you may have trouble debugging. Here is a easy solution.
+In a situation where our `@IBDesignable` is too complex to complete in under 200ms, we need a way to still get its benefits without the complex errors that it throws. You may argue that "well my code still builds just fine". Sure, but now you have a bunch of errors and when you get one, you may have trouble debugging. Here is an easy solution.
 
-In my example I was generating a thumbnail from a video and overlaying that on top of the player as a preview image of the video. In my interface builder, apparently this code was taking too long to execute and giving me the following errors. 
+In my example, I was generating a thumbnail from a video and overlaying that on top of the player as a preview image of the video. In my interface builder, upon further examination, this code was taking too long to execute and giving me the following errors. 
 
 ![Silvrback blog image](/assets/posts/migrated-codehatcher-blog/Screen%20Region%202015-09-26%20at%2018.41.24_large.png)
 

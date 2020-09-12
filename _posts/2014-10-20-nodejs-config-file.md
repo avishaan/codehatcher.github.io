@@ -22,7 +22,7 @@ Let me answer some questions to start with.
 1. You have a potentially unnecessary dependency.
 2. You have less control.
 
-Ok, so let's jump into an example. In the following example I have different values based on what the NODE_ENV variable is set to (or not set to). I also use the name in my package.json to decide what my database name will be set to on my local machine. I also have flexibility to not care whether you call an env prod or production. I also know exactly what is going on in this file and have no dependencies that I have to learn about.
+Ok, so let's jump into an example. In the following example, I have different values based on what the NODE_ENV variable is set to (or not set to). I also use the name in my package.json to decide what my database name will be set to on my local machine. I also have the flexibility to not care whether you call an env prod or production. I also know exactly what is going on in this file and have no dependencies that I have to learn about.
 
 ```javascript
 var npmInfo = require('./package.json');
@@ -75,7 +75,7 @@ module.exports = function(){
 
 ```
 
-In my app.js file I use this as such
+In my app.js file, I use this as such
 
 ```javascript
 var config = require('./config.js');

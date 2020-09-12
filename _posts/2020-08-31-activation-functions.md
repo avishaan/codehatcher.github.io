@@ -76,7 +76,7 @@ One of the most popular functions, just looking at it many thought it wouldn't b
 ### Leaky ReLU
 Non-linear, monotonic, range \\( \in (-\infty, \infty)) \\)
 
-Although the new and improved version it can be difficult to see why this is better. This is because it addresses the problem where the ReLU has a 0 gradient when x<0 which would deactivate neurons in that area. Leaky has a small gradient in that section
+Although the new and improved version, it can be difficult to see why this is better. This is because it addresses the problem where the ReLU has a 0 gradient when x<0 which would deactivate neurons in that area. Leaky has a small gradient in that section
 
 #### Function / Derivative
 \\[ f(x) = \begin{cases} 0.01x & \ \text{if } x\leq0\\\ x & \ \text{if } x\gt0 \end{cases} \;, f'(x) = \begin{cases} 0.01 & \ \text{if } x\lt0\\\ 1 & \ \text{if } x\gt0 \end{cases} \\]
@@ -92,5 +92,5 @@ I appreciate how well named this is. Although it's continuous in some cases and 
 - An activation function that is **nonlinear** follows the universal approximation theorem can be proven to be a universal function approximator.
 - Finite **range** allows for larger learning rates.
 - Guaranteed convex error surface for **monotonic** activation functions. The value of the function may decrease even as the input increases.
-- **Continuously differentiable** allows gradient based optimization methods less issues during backprop.
+- **Continuously differentiable** allows gradient-based optimization methods fewer issues during backprop.
 - NN learns efficiently when its weights are initialized with small random values for functions which **approximates identity near origin**.

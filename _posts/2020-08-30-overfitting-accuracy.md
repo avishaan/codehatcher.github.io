@@ -15,7 +15,7 @@ date: 2020-8-29
 <script async src="https://unpkg.com/mermaid@8.6.4/dist/mermaid.min.js"></script>
 
 # Intro
-This is a central problem in machine learning; how do we make sure the parameters of a model generalize well to problems the model hasn't seen *presented in our cross-validation set* and not just to the training data. An example of how this presents may be when the validation accuracy is relatively low ~70% but our training accuracy ~100%
+This is a central problem in machine learning; how do we make sure the parameters of a model generalize well to problems the model hasn't seen *presented in our cross-validation set* and not just to the training data. An example of how this presents maybe when the validation accuracy is relatively low ~70% but our training accuracy ~100%
 
 # Strategies
 ## Cost Regularization

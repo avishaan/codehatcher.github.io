@@ -30,7 +30,7 @@ Point estimates:
 
 Point|Description
 ---|----
-0 | simple replace of image, no coding or engineering
+0 | simple replace of an image, no coding or engineering
 1| engineering has done >2 times before
 2|engineering done it before or you have something you can reference
 4|engineering needs to research beforehand
@@ -40,4 +40,4 @@ Point|Description
 An assignment of a story to an engineer/designer should happen *sparingly*. If there is an engineer who has a specific skill set requiring them to be the only one to complete a story, they can be assigned. In most cases, a story should not be assigned to an engineer.
 
 ## Outro
-As always, use your judgement and adjust accordingly. Know-how and when to adjust can be an art form but don't let that be demotivating. Keep the customer in mind and that should give you the intuition needed.
+As always, use your judgment and adjust accordingly. Know-how and when to adjust can be an art form but don't let that be demotivating. Keep the customer in mind and that should give you the intuition needed.

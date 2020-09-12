@@ -9,7 +9,7 @@ tags:
 toc: true
 toc_sticky: true
 ---
-Implementing a UIScrollView is actually really easy when you know/do three fundamental things. There is a video I uploaded that walks you through this process [UIScrollView Video](https://youtu.be/dtcrlRBYTWU)  but incase you forget you can use the following as a reference.
+Implementing a UIScrollView is *really* easy when you know/do three fundamental things. There is a video I uploaded that walks you through this process [UIScrollView Video](https://youtu.be/dtcrlRBYTWU)  but in case you forget you can use the following as a reference.
 
 1. Use a View (let's call it, ContentView) in your ScrollView to keep the layout of your buttons easier. But putting all your controls in your ContentView which is inside your ScrollView, you will make everything much easier.
 
@@ -19,4 +19,4 @@ Implementing a UIScrollView is actually really easy when you know/do three funda
 
 ![Silvrback blog image](https://silvrback.s3.amazonaws.com/uploads/50c5e582-0a24-4d29-acea-37086b439fd3/Screen%20Region%202015-08-19%20at%2018.40.07_large.png)
 
-3. Your ContentView can't depend on the ScrollView for the size (partially because of point #2). But it could use constraints on the highest level View or but using it's own content.
+3. Your ContentView can't depend on the ScrollView for the size (partially because of point #2). But it could use constraints on the highest level View or but using its own content.
