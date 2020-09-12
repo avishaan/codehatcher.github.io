@@ -17,7 +17,7 @@ taxonomy: book notes
             padding-bottom: 4%;
             padding-right: 7%;
         }
-        .archive__item {
+        .archive__item.not_search {
           display: flex;
           align-items: center;
         }
@@ -37,7 +37,7 @@ taxonomy: book notes
 {% endif %}
 
 <div class="{{ include.type | default: 'list' }}__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+  <article class="archive__item not_search" itemscope itemtype="https://schema.org/CreativeWork">
     {% if teaser %}
     <div class="archive__item-teaser">
       <img src="{{ teaser | relative_url }}" alt="">
