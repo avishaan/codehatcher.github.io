@@ -62,7 +62,7 @@ plugins:
 author:
   name   : 'Avishaan Singh Sethi "Avi"'
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Former health-tech CTO of Babynoggin, Machine Learning, Health-tech, former N.A.S.A. engineer, salsa dancer"
+  bio    : "👨‍💻 former CTO of Babynoggin,<br /> 🤖 machine learning,<br /> 🧬 health-tech,<br /> 👨‍🚀 former NASA engineer,<br /> 💃 salsa dancer"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
