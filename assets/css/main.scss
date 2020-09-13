@@ -1,0 +1,49 @@
+--- 
+# Only the main Sass file needs front matter (the dashes are enough) 
+--- 
+// https://mmistakes.github.io/minimal-mistakes/docs/structure/
+// https://github.com/mmistakes/minimal-mistakes/issues/1219#issuecomment-326809412
+// https://github.com/mmistakes/minimal-mistakes/issues/1352
+
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital@0;1&display=swap');
+
+/* system typefaces */
+$serif                        : "Lora", Georgia, Times, serif !default;
+$sans-serif                   : "Raleway", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+$monospace                    : Monaco, Consolas, "Lucida Console", monospace !default;
+
+/* sans serif typefaces */
+$sans-serif-narrow            : $sans-serif !default;
+$helvetica                    : Helvetica, "Helvetica Neue", Arial, sans-serif !default;
+
+/* serif typefaces */
+$georgia                      : Georgia, serif !default;
+$times                        : Times, serif !default;
+$bodoni                       : "Bodoni MT", serif !default;
+$calisto                      : "Calisto MT", serif !default;
+$garamond                     : Garamond, serif !default;
+
+$global-font-family           : $sans-serif !default ;
+$header-font-family           : $sans-serif !default;
+$caption-font-family          : $serif !default;
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+// https://github.com/mmistakes/minimal-mistakes/issues/1219#issuecomment-326809412
+html {
+  font-size: 16px; // originally 16px
+  @include breakpoint($medium) {
+      font-size: 18px; // originally 18px
+  }
+
+  @include breakpoint($large) {
+      font-size: 20px; // originally 20px
+  }
+
+  @include breakpoint($x-large) {
+      font-size: 22px; // originally 22px
+  }
+}
