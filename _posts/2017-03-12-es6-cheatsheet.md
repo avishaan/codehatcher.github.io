@@ -2,7 +2,7 @@
 title: "ECMAScript 6 Cheatsheet" 
 excerpt: "Quick little cheatsheet to get you through ES6"
 categories:
-  - programming
+  - cheatsheet
 tags:
   - Reference
   - ECMAScript 6

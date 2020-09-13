@@ -13,11 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: ML, AI, Webapps
+title: Machine Learning, Software Development, Salsa Dancing
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Avishaan Singh Sethi "Avi", Silicon Valley, CTO, VP of Engineering, Head of Engineering, 
-  Machine Learning, ML, Computer Vision, AI, Healthtech, Healthcare, Salsa Dancing, Deep Learning,
+  Avishaan Singh Sethi "Avi", Silicon Valley, CTO, Chief Technology Officer,
+  Director of Engineering, VP of Engineering, Head of Engineering, 
+  Machine Learning, ML, Computer Vision, AI, Health-tech, Healthcare, Deep Learning,
   Artificial Intelligence, Product Development, Agile, Lean Product Development, Webapp, PWA,
   React Native, Swift, Node.js, React
 twitter_username: captainavi
@@ -61,7 +62,7 @@ plugins:
 author:
   name   : 'Avishaan Singh Sethi "Avi"'
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Former CTO of Babynoggin, salsa dancer, lean product development, ML/AI, HealthTech, excited about XR"
+  bio    : "Former health-tech CTO of Babynoggin, Machine Learning, Health-tech, former N.A.S.A. engineer, salsa dancer"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -97,7 +98,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
   # _pages

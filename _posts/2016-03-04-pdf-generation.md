@@ -9,7 +9,6 @@ tags:
   - iOS
   - jsPDF
   - Android
-  - programing
 toc: true
 toc_sticky: true
 ---
