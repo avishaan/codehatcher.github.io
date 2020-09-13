@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   React Native, Swift, Node.js, React
 twitter_username: captainavi
 github_username: codehatcher
-minimal_mistakes_skin: aqua
+minimal_mistakes_skin: mint
 search: true
 
 # Build settings
