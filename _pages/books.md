@@ -7,21 +7,25 @@ permalink: /books/
 author_profile: true
 taxonomy: book notes
 ---
+
+This section started off as my own personal notes. After having countless conversations with other entrepreneurs in my friend group, meetups, and accelerator programs; I decided to post my notes online. Now, when I hear another head of an engineering team who needs advice, I can cite my book notes that has helped me overcome a similar situation.
+
+For a more in depth reason on why I put my book notes online, check out [this post]({% post_url 2020-09-06-about-book-summaries %}).
 <style type="text/css" media="screen">
-        .gr_grid_container {
-          /* customize grid container div here. eg: width: 500px; */
-        }
-        .archive__item-teaser {
-            flex: 0 0 20%;
-            padding-top: 4%;
-            padding-bottom: 4%;
-            padding-right: 7%;
-        }
-        .archive__item.not_search {
-          display: flex;
-          align-items: center;
-        }
-      </style>
+
+  .archive__item-teaser {
+    flex: 0 0 20%;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    padding-right: 7%;
+  }
+
+  .archive__item.not_search {
+    display: flex;
+    align-items: center;
+  }
+</style>
+
 {%- for post in site.categories[page.taxonomy] -%}
 {%- unless post.hidden -%}
 {% if post.header.teaser %}
@@ -60,3 +64,27 @@ taxonomy: book notes
 </div>
 {%- endunless -%}
 {%- endfor -%}
+
+
+
+
+I haven't put my notes for every book on my site. If you are curious what else I've read here are some links below.
+
+{% include bookshelf-montage.html shelf-name="blog-books" hide_title=true %}
+
+<style type="text/css" media="screen">
+  .gr_grid_container {
+    /* customize grid container div here. eg: width: 500px; */
+    width: 90%;
+  }
+
+  .gr_grid_book_container {
+    /* customize book cover container div here */
+    float: left;
+    width: 100px;
+    height: 160px;
+    padding: 0px 0px;
+    overflow: hidden;
+  }
+</style>
+

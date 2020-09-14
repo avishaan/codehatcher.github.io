@@ -3,9 +3,9 @@ permalink: /about/
 title: "About"
 ---
 
-I'm an engineer focused on innovation without losing sight of the
+I love salsa dancing almost as much as I love solving technical problems. I'm an engineer focused on innovation without losing sight of the
 customer.
-Whether it was as an engineer for N.A.S.A. or as the CTO of a health-tech
+Having worked as both a NASA engineer and as the CTO of a health-tech
 startup, I learned *innovation without a customer is art*. 
 
 Leading engineering teams to solve business problems is **my passion**. Nothing

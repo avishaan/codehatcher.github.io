@@ -12,24 +12,70 @@
     overflow: hidden;
   }
 </style>
+
+{% if include.hide_title %}
+{% else %}
+# Avishaan's Goodreads 
+{% endif %}
+
 <div id="gr_grid_widget_1599502873">
   <!-- Show static html as a placeholder in case js is not enabled - javascript include will override this if things work -->
-      <h1>
-<a style="text-decoration: none;" rel="nofollow" href="https://www.goodreads.com/review/list/76030805-avishaan?shelf={{ include.shelf-name }}&utm_medium=api&utm_source=grid_widget">Avishaan's Bookshelf</a>
-</h1>
-<div class="gr_grid_container">
-<div class="gr_grid_book_container"><a title="Crucial Conversations: Tools for Talking When Stakes Are High" rel="nofollow" href="https://www.goodreads.com/book/show/15014.Crucial_Conversations"><img alt="Crucial Conversations: Tools for Talking When Stakes Are High" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497193248l/15014._SX50_.jpg" /></a></div>
-<div class="gr_grid_book_container"><a title="The Hidden Brain: How Our Unconscious Minds Elect Presidents, Control Markets, Wage Wars, and Save Our Lives" rel="nofollow" href="https://www.goodreads.com/book/show/6772529-the-hidden-brain"><img alt="The Hidden Brain: How Our Unconscious Minds Elect Presidents, Control Markets, Wage Wars, and Save Our Lives" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442418022l/6772529._SY75_.jpg" /></a></div>
-<div class="gr_grid_book_container"><a title="Hello Startup. A Programmer's Guide to Building Products, Technologies, and Teams" rel="nofollow" href="https://www.goodreads.com/book/show/24915480-hello-startup-a-programmer-s-guide-to-building-products-technologies"><img alt="Hello Startup. A Programmer's Guide to Building Products, Technologies, and Teams" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1423713322l/24915480._SY75_.jpg" /></a></div>
-<div class="gr_grid_book_container"><a title="How to Win Friends and Influence People" rel="nofollow" href="https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People"><img alt="How to Win Friends and Influence People" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442726934l/4865._SY75_.jpg" /></a></div>
-<div class="gr_grid_book_container"><a title="Drive: The Surprising Truth About What Motivates Us" rel="nofollow" href="https://www.goodreads.com/book/show/6452796-drive"><img alt="Drive: The Surprising Truth About What Motivates Us" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348931599l/6452796._SX50_.jpg" /></a></div>
-<div class="gr_grid_book_container"><a title="The Systems Mindset: Managing the Machinery of Your Life" rel="nofollow" href="https://www.goodreads.com/book/show/27215752-the-systems-mindset"><img alt="The Systems Mindset: Managing the Machinery of Your Life" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1452386290l/27215752._SY75_.jpg" /></a></div>
-<div class="gr_grid_book_container"><a title="Smarter Faster Better: The Secrets of Being Productive in Life and Business" rel="nofollow" href="https://www.goodreads.com/book/show/25733966-smarter-faster-better"><img alt="Smarter Faster Better: The Secrets of Being Productive in Life and Business" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453057544l/25733966._SY75_.jpg" /></a></div>
-<div class="gr_grid_book_container"><a title="The Five Dysfunctions of a Team: A Leadership Fable" rel="nofollow" href="https://www.goodreads.com/book/show/21343.The_Five_Dysfunctions_of_a_Team"><img alt="The Five Dysfunctions of a Team: A Leadership Fable" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400841022l/21343._SY75_.jpg" /></a></div>
-<div class="gr_grid_book_container"><a title="The Pragmatic Programmer: From Journeyman to Master" rel="nofollow" href="https://www.goodreads.com/book/show/22404360-the-pragmatic-programmer"><img alt="The Pragmatic Programmer: From Journeyman to Master" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431877962l/22404360._SX50_.jpg" /></a></div>
-<br style="clear: both"/><br/><a class="gr_grid_branding" style="font-size: .9em; color: #382110; text-decoration: none; float: right; clear: both" rel="nofollow" href="https://www.goodreads.com/user/show/76030805-avishaan">Avishaan's favorite books »</a>
-<noscript><br/>Share <a rel="nofollow" href="/">book reviews</a> and ratings with Avishaan, and even join a <a rel="nofollow" href="/group">book club</a> on Goodreads.</noscript>
-</div>
+  <div class="gr_grid_container">
+    <div class="gr_grid_book_container"><a title="Crucial Conversations: Tools for Talking When Stakes Are High"
+        rel="nofollow" href="https://www.goodreads.com/book/show/15014.Crucial_Conversations"><img
+          alt="Crucial Conversations: Tools for Talking When Stakes Are High" border="0"
+          src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497193248l/15014._SX50_.jpg" /></a>
+    </div>
+    <div class="gr_grid_book_container"><a
+        title="The Hidden Brain: How Our Unconscious Minds Elect Presidents, Control Markets, Wage Wars, and Save Our Lives"
+        rel="nofollow" href="https://www.goodreads.com/book/show/6772529-the-hidden-brain"><img
+          alt="The Hidden Brain: How Our Unconscious Minds Elect Presidents, Control Markets, Wage Wars, and Save Our Lives"
+          border="0"
+          src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442418022l/6772529._SY75_.jpg" /></a>
+    </div>
+    <div class="gr_grid_book_container"><a
+        title="Hello Startup. A Programmer's Guide to Building Products, Technologies, and Teams" rel="nofollow"
+        href="https://www.goodreads.com/book/show/24915480-hello-startup-a-programmer-s-guide-to-building-products-technologies"><img
+          alt="Hello Startup. A Programmer's Guide to Building Products, Technologies, and Teams" border="0"
+          src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1423713322l/24915480._SY75_.jpg" /></a>
+    </div>
+    <div class="gr_grid_book_container"><a title="How to Win Friends and Influence People" rel="nofollow"
+        href="https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People"><img
+          alt="How to Win Friends and Influence People" border="0"
+          src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442726934l/4865._SY75_.jpg" /></a>
+    </div>
+    <div class="gr_grid_book_container"><a title="Drive: The Surprising Truth About What Motivates Us" rel="nofollow"
+        href="https://www.goodreads.com/book/show/6452796-drive"><img
+          alt="Drive: The Surprising Truth About What Motivates Us" border="0"
+          src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348931599l/6452796._SX50_.jpg" /></a>
+    </div>
+    <div class="gr_grid_book_container"><a title="The Systems Mindset: Managing the Machinery of Your Life"
+        rel="nofollow" href="https://www.goodreads.com/book/show/27215752-the-systems-mindset"><img
+          alt="The Systems Mindset: Managing the Machinery of Your Life" border="0"
+          src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1452386290l/27215752._SY75_.jpg" /></a>
+    </div>
+    <div class="gr_grid_book_container"><a
+        title="Smarter Faster Better: The Secrets of Being Productive in Life and Business" rel="nofollow"
+        href="https://www.goodreads.com/book/show/25733966-smarter-faster-better"><img
+          alt="Smarter Faster Better: The Secrets of Being Productive in Life and Business" border="0"
+          src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453057544l/25733966._SY75_.jpg" /></a>
+    </div>
+    <div class="gr_grid_book_container"><a title="The Five Dysfunctions of a Team: A Leadership Fable" rel="nofollow"
+        href="https://www.goodreads.com/book/show/21343.The_Five_Dysfunctions_of_a_Team"><img
+          alt="The Five Dysfunctions of a Team: A Leadership Fable" border="0"
+          src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400841022l/21343._SY75_.jpg" /></a>
+    </div>
+    <div class="gr_grid_book_container"><a title="The Pragmatic Programmer: From Journeyman to Master" rel="nofollow"
+        href="https://www.goodreads.com/book/show/22404360-the-pragmatic-programmer"><img
+          alt="The Pragmatic Programmer: From Journeyman to Master" border="0"
+          src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431877962l/22404360._SX50_.jpg" /></a>
+    </div>
+    <br style="clear: both" /><br /><a class="gr_grid_branding"
+      style="font-size: .9em; color: #382110; text-decoration: none; float: right; clear: both" rel="nofollow"
+      href="https://www.goodreads.com/user/show/76030805-avishaan">Avishaan's favorite books »</a>
+    <noscript><br />Share <a rel="nofollow" href="/">book reviews</a> and ratings with Avishaan, and even join a <a
+        rel="nofollow" href="/group">book club</a> on Goodreads.</noscript>
+  </div>
 
 </div>
-<script src="https://www.goodreads.com/review/grid_widget/76030805.Avishaan's%20Bookshelf?cover_size=small&hide_link=&hide_title=&num_books=200&order=a&shelf={{ include.shelf-name }}&sort=date_added&widget_id=1599502873" type="text/javascript" charset="utf-8"></script>
+<script src="https://www.goodreads.com/review/grid_widget/76030805.Avishaan's%20Bookshelf?cover_size=medium&hide_link=true&hide_title=true&num_books=200&order=a&shelf={{ include.shelf-name }}&sort=date_added&widget_id=1599502873" type="text/javascript" charset="utf-8"></script>
