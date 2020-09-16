@@ -1,6 +1,9 @@
 ---
-# this page is not actively used anymore, instead look at index.md
-permalink: /about/
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: single
+author_profile: true
 title: "About"
 ---
 
@@ -13,11 +16,10 @@ Leading engineering teams to solve business problems is **my passion**. Nothing
 is as fulfilling as leading an engineering team to develop an innovative product
 and into a cutting edge team.
 
-If you're curious to see what **motivates me** as an engineer who likes to program, check out my posts on
-machine learning [posts on machine learning]({% link _pages/category-archive.md %}). If you're curious to see what motivates me as a team leader, check
+If you're curious to see what **motivates me** as an engineer who likes to program, check out my [posts on machine learning]({% link _pages/category-archive.md %}). If you're curious to see what motivates me as a team leader, check
 out my [book notes]({% link _pages/books.md %}) on what I've read. If you're curious to see what I've worked on in the past so we can collaborate, check out some of my past projects.
 
-Feel free to reach out. **I'm open to** advising, investing, collaborating, and other potential opportunities.
+Feel free to reach out. **I'm open to** advising, investing, collaborating, and other interesting opportunities.
 
 
 {% comment %}

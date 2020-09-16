@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: A biological intelligence mingling with AI
+title: "engineering ∩ innovation ∩ people"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Avishaan Singh Sethi "Avi", Silicon Valley, CTO, Chief Technology Officer,
   Director of Engineering, VP of Engineering, Head of Engineering, 
-  Machine Learning, ML, Computer Vision, AI, Health-tech, Healthcare, Deep Learning,
+  Machine Learning, ML, Computer Vision, AI, Health-tech, Healthcare, Deep Learning, Transfer Learning,
   Artificial Intelligence, Product Development, Agile, Lean Product Development, Webapp, PWA,
-  React Native, Swift, Node.js, React
+  React Native, Swift, Node.js, React, Python
 twitter_username: captainavi
 github_username: codehatcher
 minimal_mistakes_skin: mint
