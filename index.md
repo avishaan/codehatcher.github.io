@@ -10,11 +10,11 @@ title: "About"
 I love salsa dancing almost as much as I love solving technical problems. I'm an engineer focused on innovation without losing sight of the
 customer.
 Having worked as both a NASA engineer and as the CTO of a health-tech
-startup, I learned *innovation without a customer is art*. 
+startup, I learned an important product engineering lesson. 
+> a product without a customer is indistinguishable from art; it may look *beautiful*, but it can't solve a problem
 
 Leading engineering teams to solve business problems is **my passion**. Nothing
-is as fulfilling as leading an engineering team to develop an innovative product
-and into a cutting edge team.
+is as fulfilling as getting a team of engineers to work with a team of designers to create an innovative product loved by the customers.
 
 If you're curious to see what **motivates me** as an engineer who likes to program, check out my [posts on machine learning]({% link _pages/category-archive.md %}). If you're curious to see what motivates me as a team leader, check
 out my [book notes]({% link _pages/books.md %}) on what I've read. If you're curious to see what I've worked on in the past so we can collaborate, check out some of my past projects.
