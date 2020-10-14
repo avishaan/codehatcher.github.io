@@ -14,13 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "programmer ∩ ml engineer ∩ mentor"
+# other ideas for the above product, developer, leader
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Avishaan Singh Sethi "Avi", Silicon Valley, CTO, Chief Technology Officer,
-  Director of Engineering, VP of Engineering, Head of Engineering, 
-  Machine Learning, ML, Computer Vision, AI, Health-tech, Healthcare, Deep Learning, Transfer Learning,
+  Avishaan Singh Sethi "Avi", Chief Technology Officer,
+  Director of Engineering, Machine Learning, Computer Vision, AI, Webapp, JavaScript, Python,
+  React, Node.js, Health-tech, Healthcare, Deep Learning, Transfer Learning,
   Artificial Intelligence, Product Development, Agile, Lean Product Development, Webapp, PWA,
-  React Native, Swift, Node.js, React, Python
+  React Native, Swift, Silicon Valley, ML, CTO, VP of Engineering, Head of Engineering, 
 twitter_username: captainavi
 github_username: codehatcher
 minimal_mistakes_skin: mint
