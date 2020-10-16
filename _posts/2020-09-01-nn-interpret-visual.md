@@ -29,7 +29,7 @@ These allow the assignment of meaningful names to activation groups instead of t
 
 One big benefit over using text descriptions includes the detail associated with an image being *worth 1,000 words*. Often, the visualizations displayed have no equivalence in English and would otherwise be difficult to describe. Below is the difference between: floppy ears, dog nose, and cat head.
 
-<figure class='align-center'> <video autoplay='autoplay' loop='loop' muted>
+<figure class='align-center'> <video autoplay='autoplay' loop='loop' muted playsinline>
     <source src='{{ site.baseurl }}/assets/posts/nn-interpret-visual/semantic-dictionary.webm' type='video/webm'>
     <source src='{{ site.baseurl }}/assets/posts/nn-interpret-visual/semantic-dictionary.mp4' type='video/mp4'>
   </video>
@@ -43,7 +43,7 @@ The benefit is the newly grouped neurons may have more useful, albeit less detai
 
 This strategy gives a way to show a combination of a color-coded heatmap for the activation of neurons not only show where the activation is highest but includes a color key that corresponds to the feature visualization
 
-<figure class='align-center'> <video autoplay='autoplay' loop='loop' muted> <source src='{{ site.baseurl }}/assets/posts/nn-interpret-visual/matrix-factorization.mp4' type='video/mp4'> </video> <figcaption>neuron activation grouping using matrix factorization via distill.pub</figcaption> </figure> 
+<figure class='align-center'> <video autoplay='autoplay' loop='loop' muted playsinline> <source src='{{ site.baseurl }}/assets/posts/nn-interpret-visual/matrix-factorization.mp4' type='video/mp4'> </video> <figcaption>neuron activation grouping using matrix factorization via distill.pub</figcaption> </figure> 
 
 ## Outro
 There are many more techniques available that weren't discussed that may be useful. As well as new techniques being created all the time. If visualization of the network activations is required, this is a good place to start. Eventually, there will be some visualization methods available that use AR/VR.
