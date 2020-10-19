@@ -15,11 +15,17 @@ I rarely post about stuff I build. Honestly, I think it's because I've been buil
 ### Update: 1-28-2015
 I'm ecstatic that there have been over 2,000 downloads! A few people even found me and messaged me on Facebook to tell me how much it helped them. I didn't realize such a quick project could make such a big difference
 
+### Update: 5-12-2017
+Wow, over 8,000 users on the app! 
+![Over 8k users](/assets/images/dys8k.png)
+Also, I just noticed I received a wonderful message a couple of years ago (redacted below) that I missed. Although I'm not actively maintaining the project anymore, I hope someone will build something similar, it's still fantastic to know this mini weekend project helped so many people. The healthcare space is teeming with opportunities for positive innovation.
+![I received a wonderful message ](/assets/images/dyslexia-user.png)
+
 ### Update: 3-21-2018
 Someone made another version based partially on the below research. I'm happy to say that their version is the one you should be using moving forward. I had no idea how much work it can be to maintain and respond to everyone so I'm happy someone is taking the reigns.
 
 ### TLDR
-Unscrambled is a chrome extension that addresses various website design problems that make it difficult for dyslexics to read the text. It addresses more than other chrome extensions, is easier to use than most Chrome extensions, and requires no configuration unlike other extensions. Get it at the Google Chrome extension site [here](http://goo.gl/uJ5Gt4) http://goo.gl/uJ5Gt4
+Unscrambled is a chrome extension that addresses various website design problems that make it difficult for dyslexics to read the text. It addresses more than other chrome extensions, is easier to use than most Chrome extensions, and requires no configuration. Unlike other extensions. Get it at the Google Chrome extension site [here](http://goo.gl/uJ5Gt4) http://goo.gl/uJ5Gt4
 
 ![ScreenshotAnnotated](/assets/posts/migrated-codehatcher-blog/Screenshot 2_large.png)
 
