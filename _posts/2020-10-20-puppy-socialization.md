@@ -704,7 +704,7 @@ title: "Puppy Socialization Sounds"
 							<span class="song-title">{{ song.name }}</span>
 							<span class="song-artist">{{ song.artist }}</span>
 						</div>
-						<a href="https://avishaan.com/dog-socialization" class="bandcamp-link" target="_blank">
+						<a href="https://avishaan.com/puppy-socialization" class="bandcamp-link" target="_blank">
 							<img class="bandcamp-grey" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-grey.svg"/>
 							<img class="bandcamp-white" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-white.svg"/>
 						</a>
