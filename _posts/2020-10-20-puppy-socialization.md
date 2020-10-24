@@ -225,6 +225,8 @@ title: "Puppy Socialization Sounds"
         border: none; } }
     div#progress-container input[type=range] {
       -webkit-appearance: none;
+      padding: 0px;
+      box-shadow: none;
       width: 100%;
       margin: 7.5px 0;
       position: absolute;
@@ -409,7 +411,7 @@ title: "Puppy Socialization Sounds"
       height: 19px;
       float: left; }
       div#control-container div.amplitude-mute.amplitude-not-muted {
-        background: url("https://521dimensions.com/img/open-source/amplitudejs/blue-players/volume.svg");
+        background: url("https://521dimensions.com/img/open-source/amplitudejs/blue-player/volume.svg");
         background-repeat: no-repeat; }
       div#control-container div.amplitude-mute.amplitude-muted {
         background: url("https://521dimensions.com/img/open-source/amplitudejs/blue-player/mute.svg");
@@ -456,6 +458,8 @@ title: "Puppy Socialization Sounds"
     -webkit-appearance: none;
     width: calc( 100% - 33px);
     float: left;
+    padding: 0px;
+    margin-bottom: 0px;
     margin-top: 10px;
     margin-left: 5px; }
 
