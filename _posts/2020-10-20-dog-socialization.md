@@ -10,6 +10,8 @@ permalink: /dog-socialization/
 title: "Dog Socialization Sounds"
 ---
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/amplitudejs@v5.2.0/dist/amplitude.js"></script>
+<script src="https://unpkg.com/react@17/umd/react.development.js" crossorigin></script>
+  <script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js" crossorigin></script>
 
 <style>
   div#amplitude-player {
@@ -913,9 +915,34 @@ title: "Dog Socialization Sounds"
 						</a>
 						<span class="song-duration">5:40</span>
 					</div>
+          {% for song in site.data.songs %}
+					<div class="song amplitude-song-container amplitude-play-pause" data-amplitude-song-index="{{ forloop.index0 }}">
+						<div class="song-now-playing-icon-container">
+							<div class="play-button-container">
+							</div>
+							<img class="now-playing" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/now-playing.svg"/>
+						</div>
+						<div class="song-meta-data">
+							<span class="song-title">{{ song.name }}</span>
+							<span class="song-artist">{{ song.artist }}</span>
+						</div>
+						<a href="https://avishaan.com/dog-socialization" class="bandcamp-link" target="_blank">
+							<img class="bandcamp-grey" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-grey.svg"/>
+							<img class="bandcamp-white" src="https://521dimensions.com/img/open-source/amplitudejs/blue-player/bandcamp-white.svg"/>
+						</a>
+						<span class="song-duration">5:40</span>
+					</div>
+          {% endfor %}
 				</div>
 			</div>
 		</div>
+
+  <div id="rootie">
+  </div>
+  <h1>Test</h1>
+  <h1>{{ site.data.navigation.main[0].title }}</h1>
+  <h1>{{ site.data.songs[0].name}}</h1>
+
 <script>
   let bandcampLinks = document.getElementsByClassName('bandcamp-link');
 
@@ -971,8 +998,7 @@ title: "Dog Socialization Sounds"
   /*
     Initializes AmplitudeJS
   */
-  Amplitude.init({
-    "songs": [
+  var songs = [
       {
         "name": "Heavy Rain",
         "artist": "lebaston100",
@@ -1246,8 +1272,9 @@ title: "Dog Socialization Sounds"
         "url": "/assets/dog-socialization/waves.mp3",
         "cover_art_url": "/assets/dog-socialization/album.jpg"
       }
-
-    ],
+    ];
+  Amplitude.init({
+    "songs": {{ site.data.songs | jsonify }},
     "callbacks": {
           'play': function(){
               document.getElementById('album-art').style.visibility = 'hidden';
@@ -1264,6 +1291,12 @@ title: "Dog Socialization Sounds"
     }
   });
   document.getElementById('large-visualization').style.height = document.getElementById('album-art').offsetWidth + 'px';
+
+</script>
+<script type="text/javascript" src="/assets/js/test.js"></script>
+<script>
+console.log('test');
+console.log('{{ site.data.navigation.main[0].title }}')
 </script>
 
 {% comment %}
