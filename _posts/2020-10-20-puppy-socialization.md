@@ -2,6 +2,7 @@
 title: "Puppy Socialization Sounds" 
 excerpt: "Playlist of sounds to help socialize your puppy"
 classes: wide
+date: 2020-10-24
 categories:
   - other
 tags:
