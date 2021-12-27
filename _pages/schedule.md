@@ -8,10 +8,10 @@ If you want to colab on a new machine learning framework or talk about something
 
 If you want together on a quick call, feel free to grab a spot on my calendar below. 
 If none of those times work (thinking of you my London friends), <a href="https://mailhide.io/e/V7WAu" onclick="mailhidepopup=window.open('https://mailhide.io/e/V7WAu','mailhidepopup','width=580,height=635'); return false;">send me an email</a> and we can coordinate *old school*.
-<!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/avishaan" style="min-width:320px;height:830px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
-<!-- Calendly inline widget end -->
+<!-- Calendar inline widget begin -->
+<script src="https://asset-tidycal.b-cdn.net//js/embed.js"></script>
+<div id="tidycal-embed" data-path="avishaan/30-minute-intro-meeting"></div>
+<!-- Calendar inline widget end -->
 
 
 
