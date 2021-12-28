@@ -78,7 +78,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/captainavi"
     - label: "Book a Meeting"
-      icon: "fab fa-fw fa-calendar-day"
+      icon: "fab fa-fw fa-discourse"
       url: "https://avishaan.com/schedule/"
 
 footer:
@@ -93,7 +93,7 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/captainavi"
     - label: "Book a Meeting"
-      icon: "fab fa-fw fa-calendar-day"
+      icon: "fab fa-fw fa-discourse"
       url: "https://avishaan.com/schedule/"
 
 defaults:
