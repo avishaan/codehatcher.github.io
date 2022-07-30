@@ -14,7 +14,7 @@ startup, I learned an important product engineering lesson:
 > a product without a customer is indistinguishable from art; it may look *beautiful*, but it can't solve your customer's problem
 
 Leading engineering teams to solve business problems is **my passion**. Nothing
-is as fulfilling as getting a team of engineers to work with a team of designers to create an innovative product loved by the customers.
+is as fulfilling as getting a team of engineers to work with a team of designers to create an innovative product loved by customers.
 
 <figure style='width: 30%' class='align-right'>
   <a href='/assets/images/vr-tall.jpg'><img src='/assets/images/vr-tall.jpg'></a>
