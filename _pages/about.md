@@ -11,7 +11,7 @@ startup, I learned *innovation without a customer is art*.
 
 Leading engineering teams to solve business problems is **my passion**. Nothing
 is as fulfilling as leading an engineering team to develop an innovative product
-and into a cutting edge team.
+that customers are obsessed with.
 
 If you're curious to see what **motivates me** as an engineer who likes to program, check out my posts on
 machine learning [posts on machine learning]({% link _pages/category-archive.md %}). If you're curious to see what motivates me as a team leader, check
