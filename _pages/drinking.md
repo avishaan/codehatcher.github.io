@@ -6,7 +6,9 @@ title: "Drinking Game Rules"
 
 # Drunk Ball
 Step 1: Two teams, two balls, two sets of two cans
+
 Step 2: Debate the rules
+
 Step 3: Don't finish the game
 
 # Cheers Governor
